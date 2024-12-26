@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title></title>
+    <link rel="stylesheet" href="portfolio.css" />
+    <script
+      src="https://kit.fontawesome.com/34d89722d9.js"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <div id="header">
+      <div class="container">
+        <nav>
+          <ul id="sidemenu">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="#about">About Me</a></li>
+            <li><a href="#interests">My Interests</a></li>
+            <li><a href="#portfolio">My Posts</a></li>
+            <li><a href="#social-links">Connect</a></li>
+          </ul>
+          <i class="fa-solid fa-circle-xmark" onclick="closemenu()"></i>
+          <i class="fa-solid fa-bars" onclick="openmenu()"></i>
+        </nav>
+        <div class="banner">
+          <img src="" alt="Banner Image" class="banner-image" />
+        </div>
+        <div class="header-text">
+          <p class="hidden" id="changing-text"></p>
+          <h1>Hi, I'm <span></span></h1>
+        </div>
+      </div>
+    </div>
+
+    <!--about-->
+      <div id="about">
+        <div class="container">
+          <div class="row">
+            <div class="about-col1">
+              <img
+                src="Profile Pics/Tuhin Poddar/My Profile Photo.jpg"
+                alt=""
+                id="about-image"
+              />
+            </div>
+            <div class="about-col2">
+              <h1 class="subtitle">About Me</h1>
+              <p id="about-description"></p>
+              <div class="tab-titles">
+                <p class="tab-links active-link" onclick="opentab('skills')">
+                  Skills
+                </p>
+                <p class="tab-links" onclick="opentab('projects')">Projects</p>
+                <p class="tab-links" onclick="opentab('education')">Education</p>
+              </div>
+              <div class="tab-contents active-tab" id="skills">
+                <ul id="skills-list"></ul>
+              </div>
+              <div class="tab-contents" id="projects">
+                <ul id="projects-list"></ul>
+              </div>
+              <div class="tab-contents" id="education">
+                <ul id="education-list"></ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>  
+    
+    <!--Interests-->
+      <div id="interests">
+        <div class="container">
+          <h1 class="subtitle">My Interests</h1>
+          <div id="interests-list" class="interests-list">
+            <!-- Dynamic content here -->
+          </div>
+          <!-- <button id="see-more-interests" class="see-more-button">See More</button> -->
+        </div>
+      </div>
+
+    <!--Portfolio-->
+      <div id="portfolio">
+        <div class="container">
+          <h1 class="subtitle">My Posts</h1>
+          <div id="portfolio-list" class="portfolio-list">
+            <!-- Dynamic content here -->
+          </div>
+          <!-- <button id="see-more-portfolio" class="see-more-button">See More</button> -->
+        </div>
+      </div>
+
+    <!--Social Links-->
+      <div id="social-links">
+        <div class="container">
+          <h1 class="subtitle">Connect with Me</h1>
+          <div id="social-icons" class="social-icons"></div>
+        </div>
+      </div>
+
+    <!--Footer-->
+      <div class="copyright">
+        <p>© 2024 <span id="copyright-name"></span>. All rights reserved.</p>
+      </div>
+    </div>
+
+    <script src="portfolio.js"></script>
+  </body>
+</html>
