@@ -137,15 +137,14 @@
       "avatar": "https://media.licdn.com/dms/image/v2/D4D03AQGIgRVml1UrIw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1701028870741?e=1740614400&v=beta&t=lUcEf6u7Ua5agdVP4AO2sDqJjQ4yZP2WCmRfz4cx5Lk",
       "banner": "https://media.licdn.com/dms/image/v2/D4D16AQHQegmv635psQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1701028709275?e=1740614400&v=beta&t=CqLHnlQt5RT4Qnh-QLhOwGYCkgAIx5D_X_FjtYtw52A",
       "bio": "Passionate about creating beautiful user interfaces and experiences",
-      "title": "DevRel",
+      "title": "DevRel Engineer",
       "description": "I am studying at Maulana Abul Kalam Azad University of Technology, West Bengal, India and pursuing B.Tech Computer Science Engineering right now. I am a Front-End Web Developer and also have an experience of Coding on both Java and Python. I am an avid learner and ready to take the future challenges of my life.",
       "socialLinks": {
         "linkedin": "https://www.linkedin.com/in/swapnoneel-saha-14a3161b6/",
         "twitter": "https://x.com/swapnoneel123",
         "github": "https://github.com/Swpn0neel",
-        "hashnode": "https://hashnode.com/@tuhinpoddar",
-        "instagram": "https://instagram.com/tuhinpoddar",
-        "facebook": "https://facebook.com/tuhinpoddar"
+        "hashnode": "https://swapnoneel.hashnode.dev",
+        "instagram": "https://instagram.com/swapnoneel111"
       },
       "top-skills": ["React", "Node.js", "MongoDB"],
       "skills": [
@@ -160,24 +159,20 @@
       ],
       "projects": [
         {
-          "name": "Project One",
-          "link": "https://github.com/tuhinpoddar/project-one",
-          "description": "A web application built with React and Node.js."
+          "name": "Toile",
+          "link": "https://github.com/Swpn0neel/toile",
+          "description": "A well-designed CRUD application"
         },
         {
-          "name": "Project Two",
-          "link": "https://github.com/tuhinpoddar/project-two",
-          "description": "A mobile app built with React Native."
+          "name": "Get Response",
+          "link": "https://github.com/Swpn0neel/get-response",
+          "description": "An AI powered CLI tool"
         }
       ],
       "education": [
         {
-          "year": "2015",
+          "year": "2026",
           "details": "Bachelor of Technology in Computer Science"
-        },
-        {
-          "year": "2017",
-          "details": "Master of Technology in Software Engineering"
         }
       ],
       "interests": [
@@ -192,24 +187,24 @@
       ],
       "posts": [
         {
-          "title": "Optimizing React Applications",
-          "description": "Learn how to optimize your React applications for better performance and user experience.",
-          "image": "https://placekitten.com/400/200",
-          "url": "#",
+          "title": "My Second year in Tech",
+          "description": "A timeline based journey about what I learnt and achieved so far throughout my second year",
+          "image": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729861086308/c152433f-383b-4b26-9f86-87418d53ab86.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp",
+          "url": "https://swapnoneel.hashnode.dev/my-second-year-in-tech",
           "type": "blog"
         },
         {
-          "title": "Excited to start my new role at TechCorp!",
-          "description": "I'm thrilled to announce that I've joined TechCorp as a Senior Developer. Looking forward to new challenges!",
-          "image": "https://placekitten.com/401/200",
-          "url": "#",
-          "type": "linkedin"
+          "title": "Publishing your own NPM Package is too simple!!",
+          "description": "An in-depth guide how can you publish your own npm package",
+          "image": "https://cdn.hashnode.com/res/hashnode/image/upload/v1716652494165/d4d1de8a-1201-411d-af7d-9b40fa4b6a21.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp",
+          "url": "https://swapnoneel.hashnode.dev/publish-your-own-npm-package",
+          "type": "blog"
         },
         {
-          "title": "Thoughts on the future of AI in web development",
-          "description": "AI is revolutionizing how we build websites. Here's my take on what's coming next...",
-          "image": "https://placekitten.com/403/200",
-          "url": "#",
+          "title": "The 3 Most Powerful Functions in JavaScript",
+          "description": "A brief description about the map(), filter() and reduce() functions",
+          "image": "https://cdn.hashnode.com/res/hashnode/image/upload/v1710072792777/b19a2577-a9ac-47e3-b8f0-a7f7821ab6f8.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp",
+          "url": "https://swapnoneel.hashnode.dev/the-3-most-powerful-functions-in-javascript",
           "type": "blog"
         }
       ]
