@@ -1,129 +1,6 @@
 {
   "profiles": [
     {
-      "name": "Tuhin Poddar",
-      "typingTexts": [
-        "B.Tech CS '27",
-        "Full-Stack Dev",
-        "Next.js",
-        "TypeScript",
-        "Hack4Bengal 3.0 Runner up"
-      ],
-      "color": "base",
-      "avatar": "images/tuhinpoddar/profileimg.jpg",
-      "banner": "images/tuhinpoddar/bannerimg.png",
-      "bio": "Love Building Products",
-      "title": "Developer",
-      "description": "👨‍🎓 CS enthusiast graduating in 2027. Embracing Web Development, AI, ML, and Data Science. Crafting Android apps, exploring 3D modeling, and thriving in competitive coding. Eager to innovate and collaborate, ready to bridge creativity and technology for dynamic solutions.",
-      "socialLinks": {
-        "linkedin": "https://www.linkedin.com/in/tuhin-poddar-a2a84b274/",
-        "twitter": "https://x.com/4334Tuhin",
-        "github": "https://github.com/Tuhin114",
-        "hashnode": "https://hashnode.com/@Tuhin114",
-        "instagram": "https://instagram.com/tuhinpoddar",
-        "facebook": "https://facebook.com/tuhinpoddar"
-      },
-
-      "top-skills": [
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "React",
-        "Node.js",
-        "MongoDB"
-      ],
-      "skills": [
-        {
-          "title": "Frontend",
-          "techStack": [
-            "HTML",
-            "CSS",
-            "JavaScript",
-            "bootstrap",
-            "tailwind",
-            "Redux",
-            "React-Query",
-            "React",
-            "Next.js"
-          ]
-        },
-        {
-          "title": "Backend",
-          "techStack": ["Node.js", "Express", "Next.js", "Convex"]
-        },
-        {
-          "title": "Languages",
-          "techStack": ["JavaScript", "Typescript", "C++", "C"]
-        },
-        {
-          "title": "Databases",
-          "techStack": ["MongoDB"]
-        },
-        {
-          "title": "Tools",
-          "techStack": ["Git", "GitHub", "VS Code", "Postman"]
-        }
-      ],
-      "projects": [
-        {
-          "name": "auth0_package",
-          "link": "https://www.npmjs.com/package/auth0_package",
-          "description": "auth0_package is a cutting-edge npm package that automates your entire authentication process. It is your ultimate tool for effortlessly setting up authentication routes (login, signup, and logout) powered by JWT and bcrypt.js for top-notch security. With just a few commands, it automatically configures everything, integrating seamlessly into your project and saving you hours of manual coding and configuration."
-        }
-      ],
-      "education": [
-        {
-          "year": "2021",
-          "details": "Class X - 97%(WBBSE)(Sodepur High School)"
-        },
-        {
-          "year": "2021",
-          "details": "Class XII - 90%(WBCHSE)(Sodepur High School)"
-        },
-        {
-          "year": "2027",
-          "details": "B.Tech in Information Technology - 9.3GPA(1st year) (Maulana Abul Kalam Azad University of Technology)"
-        }
-      ],
-      "interests": [
-        {
-          "title": "Artificial Intelligence",
-          "description": "Exploring the impact of AI on web development."
-        },
-        {
-          "title": "Open Source",
-          "description": "Contributing to open-source projects and communities."
-        },
-        {
-          "title": "Competitive Programming",
-          "description": "Participating in coding competitions and challenges."
-        }
-      ],
-      "posts": [
-        {
-          "title": "Attended DevFest Kolkata 2024",
-          "description": "Thrilled to share that I attended my very first hashtag #DevFestKolkata24, organized by GDG Kolkata at The Westin Hotel in Kolkata.",
-          "image": "https://media.licdn.com/dms/image/v2/D5622AQEKwj92vkg1lw/feedshare-shrink_1280/B56ZPse4kbG4Ao-/0/1734839345813?e=1738195200&v=beta&t=S6jui9bqsfAmeFIIJIoW5r9mVY7FOkCcsieKrch-jQ8",
-          "url": "https://www.linkedin.com/posts/tuhin-poddar-a2a84b274_linkedincommunity-devfestkolkata24-devfestkolkata24-activity-7276443623204777984-EifY?utm_source=share&utm_medium=member_desktop",
-          "type": "linkedin"
-        },
-        {
-          "title": "2nd runner-up team of Hack4Bengal 3.0",
-          "description": "Excited to share that our team secured the 2nd runner-up position in the Hack4Bengal 3.0 hackathon organized by the Government of West Bengal.",
-          "image": "https://media.licdn.com/dms/image/v2/D5622AQGvE1_gzoqxVQ/feedshare-shrink_800/feedshare-shrink_800/0/1723549856258?e=1738195200&v=beta&t=x0y2A92iO8dn57T6Z6qNcs5Z4scQp_mKR5Z9ObSsLRM",
-          "url": "https://www.linkedin.com/posts/tuhin-poddar-a2a84b274_hackathon-webdevelopment-activity-7229092061818277890-nX0a?utm_source=share&utm_medium=member_desktop",
-          "type": "linkedin"
-        },
-        {
-          "title": "My First Blog on Hashnode",
-          "description": "Finally Published My First Blog on Hashnode! Title : Unlocking Backend Simplicity: Building Scalable Apps with Convex",
-          "image": "https://media.licdn.com/dms/image/v2/D5622AQEX0dJbyZvZww/feedshare-shrink_800/feedshare-shrink_800/0/1733404210400?e=1738195200&v=beta&t=vZmLHjj54yWVOFp06r6-cMzFtwt08NxBv_aLSYvnA4w",
-          "url": "https://lnkd.in/gSF79c9y",
-          "type": "blog"
-        }
-      ]
-    },
-    {
       "name": "Swapnoneel Saha",
       "typingTexts": [
         "DevRel Engineer @Keploy 🐰",
@@ -293,6 +170,129 @@
           "description": "Learn How to Create & Schedule Events in Google Calendar",
           "image": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723241178114/0f0a39fd-09df-4c06-96ab-44f25f24b6bd.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm",
           "url": "https://arindam1729.hashnode.dev/event-scheduler-in-nodejs",
+          "type": "blog"
+        }
+      ]
+    },
+    {
+      "name": "Tuhin Poddar",
+      "typingTexts": [
+        "B.Tech CS '27",
+        "Full-Stack Dev",
+        "Next.js",
+        "TypeScript",
+        "Hack4Bengal 3.0 Runner up"
+      ],
+      "color": "base",
+      "avatar": "images/tuhinpoddar/profileimg.jpg",
+      "banner": "images/tuhinpoddar/bannerimg.png",
+      "bio": "Love Building Products",
+      "title": "Developer",
+      "description": "👨‍🎓 CS enthusiast graduating in 2027. Embracing Web Development, AI, ML, and Data Science. Crafting Android apps, exploring 3D modeling, and thriving in competitive coding. Eager to innovate and collaborate, ready to bridge creativity and technology for dynamic solutions.",
+      "socialLinks": {
+        "linkedin": "https://www.linkedin.com/in/tuhin-poddar-a2a84b274/",
+        "twitter": "https://x.com/4334Tuhin",
+        "github": "https://github.com/Tuhin114",
+        "hashnode": "https://hashnode.com/@Tuhin114",
+        "instagram": "https://instagram.com/tuhinpoddar",
+        "facebook": "https://facebook.com/tuhinpoddar"
+      },
+
+      "top-skills": [
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB"
+      ],
+      "skills": [
+        {
+          "title": "Frontend",
+          "techStack": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "bootstrap",
+            "tailwind",
+            "Redux",
+            "React-Query",
+            "React",
+            "Next.js"
+          ]
+        },
+        {
+          "title": "Backend",
+          "techStack": ["Node.js", "Express", "Next.js", "Convex"]
+        },
+        {
+          "title": "Languages",
+          "techStack": ["JavaScript", "Typescript", "C++", "C"]
+        },
+        {
+          "title": "Databases",
+          "techStack": ["MongoDB"]
+        },
+        {
+          "title": "Tools",
+          "techStack": ["Git", "GitHub", "VS Code", "Postman"]
+        }
+      ],
+      "projects": [
+        {
+          "name": "auth0_package",
+          "link": "https://www.npmjs.com/package/auth0_package",
+          "description": "auth0_package is a cutting-edge npm package that automates your entire authentication process. It is your ultimate tool for effortlessly setting up authentication routes (login, signup, and logout) powered by JWT and bcrypt.js for top-notch security. With just a few commands, it automatically configures everything, integrating seamlessly into your project and saving you hours of manual coding and configuration."
+        }
+      ],
+      "education": [
+        {
+          "year": "2021",
+          "details": "Class X - 97%(WBBSE)(Sodepur High School)"
+        },
+        {
+          "year": "2021",
+          "details": "Class XII - 90%(WBCHSE)(Sodepur High School)"
+        },
+        {
+          "year": "2027",
+          "details": "B.Tech in Information Technology - 9.3GPA(1st year) (Maulana Abul Kalam Azad University of Technology)"
+        }
+      ],
+      "interests": [
+        {
+          "title": "Artificial Intelligence",
+          "description": "Exploring the impact of AI on web development."
+        },
+        {
+          "title": "Open Source",
+          "description": "Contributing to open-source projects and communities."
+        },
+        {
+          "title": "Competitive Programming",
+          "description": "Participating in coding competitions and challenges."
+        }
+      ],
+      "posts": [
+        {
+          "title": "Attended DevFest Kolkata 2024",
+          "description": "Thrilled to share that I attended my very first hashtag #DevFestKolkata24, organized by GDG Kolkata at The Westin Hotel in Kolkata.",
+          "image": "https://media.licdn.com/dms/image/v2/D5622AQEKwj92vkg1lw/feedshare-shrink_1280/B56ZPse4kbG4Ao-/0/1734839345813?e=1738195200&v=beta&t=S6jui9bqsfAmeFIIJIoW5r9mVY7FOkCcsieKrch-jQ8",
+          "url": "https://www.linkedin.com/posts/tuhin-poddar-a2a84b274_linkedincommunity-devfestkolkata24-devfestkolkata24-activity-7276443623204777984-EifY?utm_source=share&utm_medium=member_desktop",
+          "type": "linkedin"
+        },
+        {
+          "title": "2nd runner-up team of Hack4Bengal 3.0",
+          "description": "Excited to share that our team secured the 2nd runner-up position in the Hack4Bengal 3.0 hackathon organized by the Government of West Bengal.",
+          "image": "https://media.licdn.com/dms/image/v2/D5622AQGvE1_gzoqxVQ/feedshare-shrink_800/feedshare-shrink_800/0/1723549856258?e=1738195200&v=beta&t=x0y2A92iO8dn57T6Z6qNcs5Z4scQp_mKR5Z9ObSsLRM",
+          "url": "https://www.linkedin.com/posts/tuhin-poddar-a2a84b274_hackathon-webdevelopment-activity-7229092061818277890-nX0a?utm_source=share&utm_medium=member_desktop",
+          "type": "linkedin"
+        },
+        {
+          "title": "My First Blog on Hashnode",
+          "description": "Finally Published My First Blog on Hashnode! Title : Unlocking Backend Simplicity: Building Scalable Apps with Convex",
+          "image": "https://media.licdn.com/dms/image/v2/D5622AQEX0dJbyZvZww/feedshare-shrink_800/feedshare-shrink_800/0/1733404210400?e=1738195200&v=beta&t=vZmLHjj54yWVOFp06r6-cMzFtwt08NxBv_aLSYvnA4w",
+          "url": "https://lnkd.in/gSF79c9y",
           "type": "blog"
         }
       ]

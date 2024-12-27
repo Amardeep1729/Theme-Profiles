@@ -1,51 +1,51 @@
 const themeColors = {
   brown: {
-    secondaryBackground: "rgb(255,208,160)", // Green shade
+    secondaryBackground: "rgb(255,208,160)",
     backgroundGradient:
       "linear-gradient(90deg, rgba(255,208,160,1) 0%, rgba(159,113,67,1) 34%, rgba(63,30,1,1) 65%)",
   },
   blue: {
-    secondaryBackground: "rgb(158,176,255)", // Red shade
+    secondaryBackground: "rgb(158,176,255)",
     backgroundGradient:
       "linear-gradient(90deg, rgba(158,176,255,1) 0%, rgba(74,98,254,1) 30%, rgba(0,8,255,1) 70%)",
   },
   purple: {
-    secondaryBackground: "rgb(204,169,255)", // Blue shade
+    secondaryBackground: "rgb(204,169,255)",
     backgroundGradient:
       "linear-gradient(90deg, rgba(204,169,255,1) 0%, rgba(147,67,226,1) 23%, rgba(76,0,133,1) 75%)",
   },
   orange: {
-    secondaryBackground: "rgb(255,175,127)", // Orange shade
+    secondaryBackground: "rgb(255,175,127)",
     backgroundGradient:
       "linear-gradient(90deg, rgba(255,175,127,1) 0%, rgba(255,158,57,1) 27%, rgba(255,86,0,1) 75%)",
   },
   yellow: {
-    secondaryBackground: " rgb(255,252,131)", // Orange shade
+    secondaryBackground: " rgb(255,252,131)",
     backgroundGradient:
       "linear-gradient(90deg, rgba(255,252,131,1) 0%, rgba(255,247,66,1) 40%, rgba(248,255,0,1) 76%)",
   },
   pink: {
-    secondaryBackground: "rgb(255,179,217)", // Orange shade
+    secondaryBackground: "rgb(255,179,217)",
     backgroundGradient:
       "linear-gradient(90deg, rgba(255,179,217,1) 0%, rgba(255,29,165,1) 31%, rgba(207,8,171,1) 73%)",
   },
   red: {
-    secondaryBackground: "rgb(255,4,4)", // Orange shade
+    secondaryBackground: "rgb(255,4,4)",
     backgroundGradient:
       "linear-gradient(90deg, rgba(255,4,4,1) 0%, rgba(255,90,60,1) 33%, rgba(255,160,160,1) 74%)",
   },
   green: {
-    secondaryBackground: "rgb(173,224,124)", // Orange shade
+    secondaryBackground: "rgb(173,224,124)",
     backgroundGradient:
       "linear-gradient(90deg, rgba(173,224,124,0.8820320364473915) 17%, rgba(53,196,14,0.741976014038428) 48%, rgba(0,93,22,0.741976014038428) 72%)",
   },
   cyan: {
-    secondaryBackground: " rgb(103,228,232)", // Orange shade
+    secondaryBackground: " rgb(103,228,232)",
     backgroundGradient:
       "linear-gradient(90deg, rgba(103,228,232,0.8820320364473915) 17%, rgba(9,77,121,0.9100432409291842) 45%, rgba(52,0,255,0.741976014038428) 87%)",
   },
   base: {
-    secondaryBackground: "rgb(205, 150, 31)", // Orange shade
+    secondaryBackground: "rgb(205, 150, 31)",
     backgroundGradient:
       "linear-gradient(90deg,rgba(205, 150, 31, 1) 0%,rgba(207, 199, 47, 1) 50%,rgba(200, 121, 52, 1) 100%)",
   },
@@ -117,7 +117,6 @@ fetch("data.json")
     return response.json();
   })
   .then((data) => {
-    // Get profile name from URL
     const urlParams = new URLSearchParams(window.location.search);
     const profileParam = urlParams.get("profile");
 
@@ -135,7 +134,7 @@ fetch("data.json")
       if (profile.typingTexts) {
         startTypingEffect(profile.typingTexts);
       }
-      console.log("Profile found:", profile);
+      // console.log("Profile found:", profile);
       if (profile.color) {
         applyTheme(profile.color);
       }
@@ -200,7 +199,7 @@ function populateAboutSection(aboutData) {
 
   // Projects
   const projectsList = document.getElementById("projects-list");
-  projectsList.innerHTML = ""; // Clear previous entries
+  projectsList.innerHTML = "";
   aboutData.projects.forEach((project) => {
     const projectItem = document.createElement("div");
     projectItem.className = "project-item";
@@ -216,7 +215,7 @@ function populateAboutSection(aboutData) {
 
   // Education
   const educationList = document.getElementById("education-list");
-  educationList.innerHTML = ""; // Clear previous entries
+  educationList.innerHTML = "";
   aboutData.education.forEach((education) => {
     const educationItem = document.createElement("div");
     educationItem.className = "education-item";
@@ -231,7 +230,7 @@ function populateAboutSection(aboutData) {
 // 📝 Populate Interests
 function populateServicesSection(interestsData) {
   const interestsList = document.getElementById("interests-list");
-  interestsList.innerHTML = ""; // Clear previous entries
+  interestsList.innerHTML = "";
   interestsData.forEach((interest) => {
     const interestItem = document.createElement("div");
     interestItem.className = "interest-item";
@@ -246,11 +245,11 @@ function populateServicesSection(interestsData) {
 // 📝 Populate Portfolio
 function populatePortfolioSection(portfolioData) {
   const portfolioList = document.getElementById("portfolio-list");
-  portfolioList.innerHTML = ""; // Clear existing content
+  portfolioList.innerHTML = "";
 
   portfolioData.forEach((project) => {
-    console.log(project);
-    let iconUrl = ""; // Ensure it resets for each project
+    // console.log(project);
+    let iconUrl = "";
 
     if (project.type === "linkedin") {
       iconUrl = "https://img.icons8.com/color/48/000000/linkedin.png";
@@ -290,7 +289,7 @@ function populatePortfolioSection(portfolioData) {
 // 📝 Populate Social Links
 function populateSocialLinks(socialLinks) {
   const socialIcons = document.getElementById("social-icons");
-  socialIcons.innerHTML = ""; // Clear previous entries
+  socialIcons.innerHTML = "";
 
   const icons = {
     linkedin: "fa-brands fa-linkedin",

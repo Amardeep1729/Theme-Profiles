@@ -74,17 +74,15 @@ async function fetchProfileData() {
   return data.profiles;
 }
 
-// Create a profile card for each profile
 function createProfileCard(profile) {
   const card = document.createElement("div");
   card.className = "card";
 
-  // Apply theme to the card (only for this card, not globally)
   if (profile.color) {
     applyTheme(card, profile.color);
   }
 
-  // Create a URL-friendly profile name
+  // URL profile name
   const profileUrl = `portfolio.html?profile=${encodeURIComponent(
     profile.name.trim().replace(/\s+/g, "-").toLowerCase()
   )}`;
@@ -141,8 +139,7 @@ async function renderProfileCards() {
     cardContainer.appendChild(card);
   });
 
-  lucide.createIcons(); // Assuming this is for rendering icons
+  lucide.createIcons();
 }
 
-// Initialize rendering on page load
 document.addEventListener("DOMContentLoaded", renderProfileCards);

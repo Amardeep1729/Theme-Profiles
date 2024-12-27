@@ -94,9 +94,9 @@ body {
 .profile-title {
   font-size: 1.125rem;
   color: var(--secondary-foreground);
-  display: inline-block; /* Make the title an inline-block element */
-  text-align: center; /* Center the text within the inline-block element */
-  width: 100%; /* Ensure the inline-block element takes up the full width of its container */
+  display: inline-block;
+  text-align: center;
+  width: 100%;
 }
 
 .social-links {
