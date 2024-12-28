@@ -1585,83 +1585,69 @@
     },
     {
       "name": "Dipon Mitra",
-      "typingTexts": [""],
-      "color": "base",
-      "avatar": "",
-      "banner": "",
-      "bio": "",
-      "title": "",
-      "description": "",
+      "typingTexts": [
+        "Data Anatyics",
+        "Front-end Web Developer",
+        "Development with Python",
+        "ML Engineer"
+      
+      ],
+      "color": "brown",
+      "avatar": "https://ibb.co/ySKV9Cx",
+      "banner": "https://i.etsystatic.com/25639369/r/il/dc5141/2684598600/il_fullxfull.2684598600_453y.jpg",
+      "bio": "Passionate about building models for prediction and analysis.",
+      "title": "ML Engineer",
+      "description": "I am pursuing dual degrre right now B.Tech and B.S. from MAKAUT,WB and IIT Madras respectively. I am a Front-End Web Developer and also have an experience of Coding on Python. I am an avid learner and ready to take the future challenges of my life.",
       "socialLinks": {
-        "linkedin": "",
-        "twitter": "",
-        "github": "",
-        "hashnode": "",
-        "instagram": "",
-        "facebook": ""
+        "linkedin": "www.linkedin.com/in/diponmitra",
+        "twitter": "https://x.com/DiponMitra10110",
+        "github": "https://github.com/10112004-Dipon",
+        "hashnode": "https://hashnode.com/@dipon",
+        "instagram": "https://www.instagram.com/dipon9145/",
+        "facebook": "https://www.facebook.com/manju.mitra.9216/"
       },
 
-      "top-skills": [],
+      "top-skills": [ "HTML", "CSS", "PYTHON"],
       "skills": [
         {
-          "title": "",
-          "techStack": []
+          "title": "ML Engineer",
+          "techStack": ["PYTHON"]
         },
         {
-          "title": "",
-          "techStack": []
-        },
-        {
-          "title": "",
-          "techStack": []
-        },
-        {
-          "title": "",
-          "techStack": []
-        },
-        {
-          "title": "",
-          "techStack": []
+          "title": "Frontend Development",
+          "techStack": ["HTML","CSS"]
         }
       ],
       "projects": [
         {
-          "name": "",
-          "link": "",
-          "description": ""
+          "name": "Automodeler",
+          "link": "https://ai-ml-model.streamlit.app/",
+          "description": "A model for prediction and analysis"
         },
         {
-          "name": "",
-          "link": "",
-          "description": ""
+          "name": "Payment-Fraud-Detection",
+          "link": "r/C:\Users\Dipon Mitra\OneDrive\Desktop\.ipynb_checkpoints\Payment_fraud_detection-checkpoint.ipynb",
+          "description": "A model for prediction of payment fraud"
         }
       ],
       "education": [
         {
-          "year": "",
-          "details": ""
+          "year": "2028",
+          "details": "Bachelor of Technology in Information Technology"
         },
         {
-          "year": "",
-          "details": ""
-        },
-        {
-          "year": "",
-          "details": ""
+          "year": "2029",
+          "details": "Bachelor of Science in Data science and Application"
         }
       ],
       "interests": [
         {
-          "title": "",
-          "description": ""
+          "title": "Open Source",
+          "description": "Contributing to open-source projects and communities."
         },
         {
-          "title": "",
-          "description": ""
-        },
-        {
-          "title": "",
-          "description": ""
+          "title": "Machine Learningr",
+          "description": "Data analysis and prediction"
         }
       ],
       "posts": [
@@ -1686,7 +1672,6 @@
         }
       ]
     },
-
     {
       "name": "Abhirup Sasmal",
       "typingTexts": [""],
