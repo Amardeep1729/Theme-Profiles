@@ -607,7 +607,7 @@
       ]
     },
     {
-      "name": "Suporno Maiti",
+      "name": "Sheetal Bajaj",
       "typingTexts": [""],
       "color": "base",
       "avatar": "",
@@ -710,7 +710,7 @@
       ]
     },
     {
-      "name": "Dipon Mitra",
+      "name": "Shreyaushi Das",
       "typingTexts": [""],
       "color": "base",
       "avatar": "",
@@ -812,6 +812,110 @@
         }
       ]
     },
+    {
+      "name": "Suporno Maiti",
+      "typingTexts": [""],
+      "color": "base",
+      "avatar": "",
+      "banner": "",
+      "bio": "",
+      "title": "",
+      "description": "",
+      "socialLinks": {
+        "linkedin": "",
+        "twitter": "",
+        "github": "",
+        "hashnode": "",
+        "instagram": "",
+        "facebook": ""
+      },
+
+      "top-skills": [],
+      "skills": [
+        {
+          "title": "",
+          "techStack": []
+        },
+        {
+          "title": "",
+          "techStack": []
+        },
+        {
+          "title": "",
+          "techStack": []
+        },
+        {
+          "title": "",
+          "techStack": []
+        },
+        {
+          "title": "",
+          "techStack": []
+        }
+      ],
+      "projects": [
+        {
+          "name": "",
+          "link": "",
+          "description": ""
+        },
+        {
+          "name": "",
+          "link": "",
+          "description": ""
+        }
+      ],
+      "education": [
+        {
+          "year": "",
+          "details": ""
+        },
+        {
+          "year": "",
+          "details": ""
+        },
+        {
+          "year": "",
+          "details": ""
+        }
+      ],
+      "interests": [
+        {
+          "title": "",
+          "description": ""
+        },
+        {
+          "title": "",
+          "description": ""
+        },
+        {
+          "title": "",
+          "description": ""
+        }
+      ],
+      "posts": [
+        {
+          "title": "",
+          "description": "",
+          "image": "",
+          "url": "",
+          "type": ""
+        },
+        {
+          "title": "",
+          "description": "",
+          "image": "",
+          "type": ""
+        },
+        {
+          "title": "",
+          "description": "",
+          "image": "",
+          "type": ""
+        }
+      ]
+    },
+
     {
       "name": "Prolayjit Biswas",
       "typingTexts": [""],
@@ -1122,316 +1226,110 @@
       ]
     },
     {
+      "name": "Argha Roy Chowdhury",
+      "typingTexts": [""],
+      "color": "base",
+      "avatar": "",
+      "banner": "",
+      "bio": "",
+      "title": "",
+      "description": "",
+      "socialLinks": {
+        "linkedin": "",
+        "twitter": "",
+        "github": "",
+        "hashnode": "",
+        "instagram": "",
+        "facebook": ""
+      },
+
+      "top-skills": [],
+      "skills": [
+        {
+          "title": "",
+          "techStack": []
+        },
+        {
+          "title": "",
+          "techStack": []
+        },
+        {
+          "title": "",
+          "techStack": []
+        },
+        {
+          "title": "",
+          "techStack": []
+        },
+        {
+          "title": "",
+          "techStack": []
+        }
+      ],
+      "projects": [
+        {
+          "name": "",
+          "link": "",
+          "description": ""
+        },
+        {
+          "name": "",
+          "link": "",
+          "description": ""
+        }
+      ],
+      "education": [
+        {
+          "year": "",
+          "details": ""
+        },
+        {
+          "year": "",
+          "details": ""
+        },
+        {
+          "year": "",
+          "details": ""
+        }
+      ],
+      "interests": [
+        {
+          "title": "",
+          "description": ""
+        },
+        {
+          "title": "",
+          "description": ""
+        },
+        {
+          "title": "",
+          "description": ""
+        }
+      ],
+      "posts": [
+        {
+          "title": "",
+          "description": "",
+          "image": "",
+          "url": "",
+          "type": ""
+        },
+        {
+          "title": "",
+          "description": "",
+          "image": "",
+          "type": ""
+        },
+        {
+          "title": "",
+          "description": "",
+          "image": "",
+          "type": ""
+        }
+      ]
+    },
+    {
       "name": "Sonam Kumari",
-      "typingTexts": [""],
-      "color": "base",
-      "avatar": "",
-      "banner": "",
-      "bio": "",
-      "title": "",
-      "description": "",
-      "socialLinks": {
-        "linkedin": "",
-        "twitter": "",
-        "github": "",
-        "hashnode": "",
-        "instagram": "",
-        "facebook": ""
-      },
-
-      "top-skills": [],
-      "skills": [
-        {
-          "title": "",
-          "techStack": []
-        },
-        {
-          "title": "",
-          "techStack": []
-        },
-        {
-          "title": "",
-          "techStack": []
-        },
-        {
-          "title": "",
-          "techStack": []
-        },
-        {
-          "title": "",
-          "techStack": []
-        }
-      ],
-      "projects": [
-        {
-          "name": "",
-          "link": "",
-          "description": ""
-        },
-        {
-          "name": "",
-          "link": "",
-          "description": ""
-        }
-      ],
-      "education": [
-        {
-          "year": "",
-          "details": ""
-        },
-        {
-          "year": "",
-          "details": ""
-        },
-        {
-          "year": "",
-          "details": ""
-        }
-      ],
-      "interests": [
-        {
-          "title": "",
-          "description": ""
-        },
-        {
-          "title": "",
-          "description": ""
-        },
-        {
-          "title": "",
-          "description": ""
-        }
-      ],
-      "posts": [
-        {
-          "title": "",
-          "description": "",
-          "image": "",
-          "url": "",
-          "type": ""
-        },
-        {
-          "title": "",
-          "description": "",
-          "image": "",
-          "type": ""
-        },
-        {
-          "title": "",
-          "description": "",
-          "image": "",
-          "type": ""
-        }
-      ]
-    },
-    {
-      "name": "Farhan Akhtar",
-      "typingTexts": [""],
-      "color": "base",
-      "avatar": "",
-      "banner": "",
-      "bio": "",
-      "title": "",
-      "description": "",
-      "socialLinks": {
-        "linkedin": "",
-        "twitter": "",
-        "github": "",
-        "hashnode": "",
-        "instagram": "",
-        "facebook": ""
-      },
-
-      "top-skills": [],
-      "skills": [
-        {
-          "title": "",
-          "techStack": []
-        },
-        {
-          "title": "",
-          "techStack": []
-        },
-        {
-          "title": "",
-          "techStack": []
-        },
-        {
-          "title": "",
-          "techStack": []
-        },
-        {
-          "title": "",
-          "techStack": []
-        }
-      ],
-      "projects": [
-        {
-          "name": "",
-          "link": "",
-          "description": ""
-        },
-        {
-          "name": "",
-          "link": "",
-          "description": ""
-        }
-      ],
-      "education": [
-        {
-          "year": "",
-          "details": ""
-        },
-        {
-          "year": "",
-          "details": ""
-        },
-        {
-          "year": "",
-          "details": ""
-        }
-      ],
-      "interests": [
-        {
-          "title": "",
-          "description": ""
-        },
-        {
-          "title": "",
-          "description": ""
-        },
-        {
-          "title": "",
-          "description": ""
-        }
-      ],
-      "posts": [
-        {
-          "title": "",
-          "description": "",
-          "image": "",
-          "url": "",
-          "type": ""
-        },
-        {
-          "title": "",
-          "description": "",
-          "image": "",
-          "type": ""
-        },
-        {
-          "title": "",
-          "description": "",
-          "image": "",
-          "type": ""
-        }
-      ]
-    },
-    {
-      "name": "Snehasis Ghosh",
-      "typingTexts": [""],
-      "color": "base",
-      "avatar": "",
-      "banner": "",
-      "bio": "",
-      "title": "",
-      "description": "",
-      "socialLinks": {
-        "linkedin": "",
-        "twitter": "",
-        "github": "",
-        "hashnode": "",
-        "instagram": "",
-        "facebook": ""
-      },
-
-      "top-skills": [],
-      "skills": [
-        {
-          "title": "",
-          "techStack": []
-        },
-        {
-          "title": "",
-          "techStack": []
-        },
-        {
-          "title": "",
-          "techStack": []
-        },
-        {
-          "title": "",
-          "techStack": []
-        },
-        {
-          "title": "",
-          "techStack": []
-        }
-      ],
-      "projects": [
-        {
-          "name": "",
-          "link": "",
-          "description": ""
-        },
-        {
-          "name": "",
-          "link": "",
-          "description": ""
-        }
-      ],
-      "education": [
-        {
-          "year": "",
-          "details": ""
-        },
-        {
-          "year": "",
-          "details": ""
-        },
-        {
-          "year": "",
-          "details": ""
-        }
-      ],
-      "interests": [
-        {
-          "title": "",
-          "description": ""
-        },
-        {
-          "title": "",
-          "description": ""
-        },
-        {
-          "title": "",
-          "description": ""
-        }
-      ],
-      "posts": [
-        {
-          "title": "",
-          "description": "",
-          "image": "",
-          "url": "",
-          "type": ""
-        },
-        {
-          "title": "",
-          "description": "",
-          "image": "",
-          "type": ""
-        },
-        {
-          "title": "",
-          "description": "",
-          "image": "",
-          "type": ""
-        }
-      ]
-    },
-    {
-      "name": "Sheetal Bajaj",
       "typingTexts": [""],
       "color": "base",
       "avatar": "",
@@ -1637,7 +1535,7 @@
       ]
     },
     {
-      "name": "Shreyaushi Das",
+      "name": "Farhan Akhtar",
       "typingTexts": [""],
       "color": "base",
       "avatar": "",
@@ -1739,6 +1637,110 @@
         }
       ]
     },
+    {
+      "name": "Dipon Mitra",
+      "typingTexts": [""],
+      "color": "base",
+      "avatar": "",
+      "banner": "",
+      "bio": "",
+      "title": "",
+      "description": "",
+      "socialLinks": {
+        "linkedin": "",
+        "twitter": "",
+        "github": "",
+        "hashnode": "",
+        "instagram": "",
+        "facebook": ""
+      },
+
+      "top-skills": [],
+      "skills": [
+        {
+          "title": "",
+          "techStack": []
+        },
+        {
+          "title": "",
+          "techStack": []
+        },
+        {
+          "title": "",
+          "techStack": []
+        },
+        {
+          "title": "",
+          "techStack": []
+        },
+        {
+          "title": "",
+          "techStack": []
+        }
+      ],
+      "projects": [
+        {
+          "name": "",
+          "link": "",
+          "description": ""
+        },
+        {
+          "name": "",
+          "link": "",
+          "description": ""
+        }
+      ],
+      "education": [
+        {
+          "year": "",
+          "details": ""
+        },
+        {
+          "year": "",
+          "details": ""
+        },
+        {
+          "year": "",
+          "details": ""
+        }
+      ],
+      "interests": [
+        {
+          "title": "",
+          "description": ""
+        },
+        {
+          "title": "",
+          "description": ""
+        },
+        {
+          "title": "",
+          "description": ""
+        }
+      ],
+      "posts": [
+        {
+          "title": "",
+          "description": "",
+          "image": "",
+          "url": "",
+          "type": ""
+        },
+        {
+          "title": "",
+          "description": "",
+          "image": "",
+          "type": ""
+        },
+        {
+          "title": "",
+          "description": "",
+          "image": "",
+          "type": ""
+        }
+      ]
+    },
+
     {
       "name": "Abhirup Sasmal",
       "typingTexts": [""],
@@ -2048,109 +2050,7 @@
         }
       ]
     },
-    {
-      "name": "Argha Roy Chowdhury",
-      "typingTexts": [""],
-      "color": "base",
-      "avatar": "",
-      "banner": "",
-      "bio": "",
-      "title": "",
-      "description": "",
-      "socialLinks": {
-        "linkedin": "",
-        "twitter": "",
-        "github": "",
-        "hashnode": "",
-        "instagram": "",
-        "facebook": ""
-      },
 
-      "top-skills": [],
-      "skills": [
-        {
-          "title": "",
-          "techStack": []
-        },
-        {
-          "title": "",
-          "techStack": []
-        },
-        {
-          "title": "",
-          "techStack": []
-        },
-        {
-          "title": "",
-          "techStack": []
-        },
-        {
-          "title": "",
-          "techStack": []
-        }
-      ],
-      "projects": [
-        {
-          "name": "",
-          "link": "",
-          "description": ""
-        },
-        {
-          "name": "",
-          "link": "",
-          "description": ""
-        }
-      ],
-      "education": [
-        {
-          "year": "",
-          "details": ""
-        },
-        {
-          "year": "",
-          "details": ""
-        },
-        {
-          "year": "",
-          "details": ""
-        }
-      ],
-      "interests": [
-        {
-          "title": "",
-          "description": ""
-        },
-        {
-          "title": "",
-          "description": ""
-        },
-        {
-          "title": "",
-          "description": ""
-        }
-      ],
-      "posts": [
-        {
-          "title": "",
-          "description": "",
-          "image": "",
-          "url": "",
-          "type": ""
-        },
-        {
-          "title": "",
-          "description": "",
-          "image": "",
-          "type": ""
-        },
-        {
-          "title": "",
-          "description": "",
-          "image": "",
-          "type": ""
-        }
-      ]
-    },
     {
       "name": "Bikram Samanta",
       "typingTexts": [""],
