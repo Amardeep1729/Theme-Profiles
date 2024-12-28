@@ -299,104 +299,85 @@
     },
     {
       "name": "Snehasis Ghosh",
-      "typingTexts": [""],
+      "typingTexts": [
+        "B.Tech CSE '28",
+        "Coding Enthusiast",
+        "Python",
+        "C++",
+        "MySQL"
+      ],
       "color": "base",
-      "avatar": "",
-      "banner": "",
-      "bio": "",
-      "title": "",
-      "description": "",
+      "avatar": "images/snehasisghosh/AVATAR.jpg",
+      "banner": "images/snehasisghosh/banner.jpg",
+      "bio": "Coding enthusiast",
+      "title": "Beginner",
+      "description": "Passionate About Coding",
       "socialLinks": {
-        "linkedin": "",
-        "twitter": "",
-        "github": "",
-        "hashnode": "",
-        "instagram": "",
-        "facebook": ""
+        "linkedin": "https://www.linkedin.com/in/snehasis-ghosh-202321335/",
+        "twitter": "https://x.com/Snehasis5170",
+        "github": "https://github.com/SnehasisGh0sh",
+        "hashnode": "https://hashnode.com/@Snehasis",
+        "instagram": "https://www.instagram.com/snehasis5170",
+        "facebook": "https://www.facebook.com/profile.php?id=100011390386048"
       },
 
-      "top-skills": [],
+      "top-skills": ["Html","Python","C++","MySQL","CSS"],
       "skills": [
         {
-          "title": "",
-          "techStack": []
+          "title": "Frontend",
+          "techStack": ["HTML", "CSS", "JavaScript"]
         },
         {
-          "title": "",
-          "techStack": []
+          "title": "Databases",
+          "techStack": ["MySQL"]
         },
         {
-          "title": "",
-          "techStack": []
+          "title": "Languages",
+          "techStack": ["Python", "C++", "C"]
         },
         {
-          "title": "",
-          "techStack": []
-        },
-        {
-          "title": "",
-          "techStack": []
+          "title": "Tools",
+          "techStack": ["Git", "GitHub", "VS Code"]
         }
       ],
       "projects": [
-        {
-          "name": "",
-          "link": "",
-          "description": ""
-        },
-        {
-          "name": "",
-          "link": "",
-          "description": ""
-        }
+        
       ],
       "education": [
         {
-          "year": "",
-          "details": ""
+          "year": "2022",
+          "details": "Class X - 91%(CBSE)(Ramakrishna Mission Vidyapith, Deoghar)"
         },
         {
-          "year": "",
-          "details": ""
+          "year": "2024",
+          "details": "Class XII - 94.2%(CBSE)(Ramakrishna Mission Vidyapith, Deoghar)"
         },
         {
-          "year": "",
-          "details": ""
+          "year": "2028",
+          "details": "B.Tech in Information Technology-- 1st Year (Maulana Abul Kalam Azad University of Technology)"
         }
       ],
       "interests": [
         {
-          "title": "",
-          "description": ""
+          "title": "Artificial Intelligence",
+          "description": "Exploring the impact of AI on different platforms of tech"
         },
         {
-          "title": "",
-          "description": ""
+          "title": "Competitive Programming",
+          "description": "Participating in coding competitions and challenges"
         },
         {
-          "title": "",
-          "description": ""
+          "title": "Open Source",
+          "description": "Contributing to open-source projects and communities."
         }
       ],
       "posts": [
         {
-          "title": "",
-          "description": "",
-          "image": "",
-          "url": "",
-          "type": ""
-        },
-        {
-          "title": "",
-          "description": "",
-          "image": "",
-          "type": ""
-        },
-        {
-          "title": "",
-          "description": "",
-          "image": "",
-          "type": ""
+          "title": "Attended Async Devs Session",
+          "description": "Attended a session organised by the Async Devs community on the importance of Social Media",
+          "image": "https://pbs.twimg.com/media/GdiLO1vXMAA1b-9?format=jpg&name=small",
+          "url": "https://x.com/Snehasis5170/status/1862391667128721686",
+          "type": "Twitter"
         }
       ]
     },
