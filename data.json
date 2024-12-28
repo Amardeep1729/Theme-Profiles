@@ -918,104 +918,81 @@
 
     {
       "name": "Prolayjit Biswas",
-      "typingTexts": [""],
-      "color": "base",
-      "avatar": "",
-      "banner": "",
-      "bio": "",
-      "title": "",
-      "description": "",
+      "typingTexts": [
+        "B.Tech'28 ",
+        "Coding Enthusiastic",
+        "Exploring the tech domain"
+      ],
+      "color": "brown",
+      "avatar": "https://media.licdn.com/dms/image/v2/D5603AQGFOoJhY99OTw/profile-displayphoto-shrink_800_800/B56ZOXbECGHYAc-/0/1733412275824?e=1740614400&v=beta&t=-qHQQOoLfCLLdnqSv0nHdPTjPPdiUBmg64IBbu12_5M",
+      "banner": "https://media.licdn.com/dms/image/v2/D5616AQFIuuk7wuvfSw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735366685156?e=1740614400&v=beta&t=EzhFyzat8yv2wpY2J35M4Qdcs4NwdUw6vflsNCdFpNk",
+      "bio": "Enthusiastic Tech Fresher passionate about coding, A,I, Cyber Security and Data Science",
+      "title": "Undergraduate Student, aspiring programmer",
+      "description": "I am studying B.Tech Electronics at Maulana Abul Kalam Azad University of Technology, West Bengal.A passionate 1st-year student eager to dive into the worlds of coding.Currently building a strong foundation in programming and excited to learn and grow in the tech field. ",
       "socialLinks": {
-        "linkedin": "",
-        "twitter": "",
-        "github": "",
-        "hashnode": "",
-        "instagram": "",
-        "facebook": ""
+        "linkedin": "https://www.linkedin.com/in/prolayjit-biswas-030024275/",
+        "twitter": "https://x.com/Pro_layjit14",
+        "github": "https://github.com/Prolayjit-B14",
+        "hashnode": "https://hashnode.com/@Prolay-14B",
+        "instagram": "https://www.instagram.com/pro_lay04/"
       },
 
-      "top-skills": [],
+      "top-skills": [
+        "C"
+      ],
       "skills": [
         {
-          "title": "",
-          "techStack": []
+          "title": "Languages",
+          "techStack": [
+            "C",
+            "C++"
+          ]
         },
         {
-          "title": "",
-          "techStack": []
-        },
-        {
-          "title": "",
-          "techStack": []
-        },
-        {
-          "title": "",
-          "techStack": []
-        },
-        {
-          "title": "",
-          "techStack": []
+          "title": "Tools",
+          "techStack": [
+            "Git",
+            "GitHub",
+            "VS Code"
+          ]
         }
       ],
       "projects": [
         {
-          "name": "",
-          "link": "",
-          "description": ""
-        },
-        {
-          "name": "",
-          "link": "",
-          "description": ""
+          "name": "Library Management System",
+          "link": "https://github.com/priyanka-mistry04/Library_Management_System/commit/52a560584c70786a34b9a05366a5d2b45b6d9c08",
+          "description": "A project for Hackathon in Anweshan 2024"
         }
       ],
       "education": [
         {
-          "year": "",
-          "details": ""
-        },
-        {
-          "year": "",
-          "details": ""
-        },
-        {
-          "year": "",
-          "details": ""
+          "year": "2028",
+          "details": "Bachelor of Technology in Electronics (VLSI) at MAKAUT, WB."
         }
       ],
       "interests": [
         {
-          "title": "",
-          "description": ""
+          "title": "Artificial Intelligence",
+          "description": "Exploring the fundamentals of artificial intelligence to understand how intelligent systems work"
         },
         {
-          "title": "",
-          "description": ""
-        },
-        {
-          "title": "",
-          "description": ""
+          "title": "Data Science",
+          "description": "Passionate about data science, focusing on foundational skills like Python, statistics,"
         }
       ],
       "posts": [
         {
-          "title": "",
-          "description": "",
-          "image": "",
-          "url": "",
-          "type": ""
+          "title": "My First Hackathon Experience",
+          "description": "Secured the Freshers Team position (Jointly) in the Hackathon competition at Anweshan 2024, MAKAUT, WB.",
+          "image": "file:///C:/Users/PROLAYJIT%20BISWAS/Pictures/Screenshots/Screenshot%202024-12-28%20123909.png",
+          "url": "https://www.linkedin.com/posts/prolayjit-biswas_hackathon-anweshan-hackathon-activity-7264706441842696192-Kb6k?utm_source=share&utm_medium=member_desktop",
+          "type": "linkedin"
         },
         {
-          "title": "",
-          "description": "",
-          "image": "",
-          "type": ""
-        },
-        {
-          "title": "",
-          "description": "",
-          "image": "",
-          "type": ""
+          "title": "Basics of Git & GitHub",
+          "description": "Participated in informative Git & GitHub sessions. Thanks to Async Devs Community.",
+          "image": "https://media.licdn.com/dms/image/v2/D5622AQFhGwFd2U7gpA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1730050299484?e=1738195200&v=beta&t=tJWpvB_pYJLXL2YxgIxBTANYKX4fmGnQKTSE78I1xFs",
+          "type": "linkedin"
         }
       ]
     },
