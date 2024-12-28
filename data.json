@@ -321,7 +321,7 @@
         "facebook": "https://www.facebook.com/profile.php?id=100011390386048"
       },
 
-      "top-skills": ["Html","Python","C++","MySQL","CSS"],
+      "top-skills": ["Html", "Python", "C++", "MySQL", "CSS"],
       "skills": [
         {
           "title": "Frontend",
@@ -340,9 +340,7 @@
           "techStack": ["Git", "GitHub", "VS Code"]
         }
       ],
-      "projects": [
-        
-      ],
+      "projects": [],
       "education": [
         {
           "year": "2022",
@@ -486,7 +484,13 @@
     },
     {
       "name": "Debopam Sarkar",
-      "typingTexts": ["B.Tech(CSE)'28", "Coding", "Tech Explorer", "Aspiring Developer", "DSA"],
+      "typingTexts": [
+        "B.Tech(CSE)'28",
+        "Coding",
+        "Tech Explorer",
+        "Aspiring Developer",
+        "DSA"
+      ],
       "color": "blue",
       "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQFPYZE2Umj9nw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1727443848105?e=1740614400&v=beta&t=IptHuYsfG55gP-hIIgXXduYF7EBFgr7gA7YQhrJQlM4",
       "banner": "https://media.licdn.com/dms/image/v2/D4E16AQE0LyyGwCeFEQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730102918391?e=1740614400&v=beta&t=frZPnpMho5HUbySGqkzjCOE_OMqSL4Pa9g0Aut90fhs",
@@ -506,7 +510,16 @@
       "skills": [
         {
           "title": "TECH",
-          "techStack": ["Open-Source Development", "C", "C++","Java", "Python", "Git", "GitHub", "VS Code"]
+          "techStack": [
+            "Open-Source Development",
+            "C",
+            "C++",
+            "Java",
+            "Python",
+            "Git",
+            "GitHub",
+            "VS Code"
+          ]
         }
       ],
       "projects": [
@@ -596,19 +609,19 @@
         "dev": "https://dev.to/sheetal_bajaj"
       },
 
-      "top-skills": ["C++","Python","HTML"],
+      "top-skills": ["C++", "Python", "HTML"],
       "skills": [
         {
           "title": "Web Development",
-          "techStack": ["HTML","CSS"]
+          "techStack": ["HTML", "CSS"]
         },
         {
           "title": "Languages",
-          "techStack": ["C","C++","Python"]
+          "techStack": ["C", "C++", "Python"]
         },
         {
           "title": "Tools",
-          "techStack": ["Git","GitHub","VS Code"]
+          "techStack": ["Git", "GitHub", "VS Code"]
         },
         {
           "title": "Data Structure and Analysis(DSA)",
@@ -662,14 +675,14 @@
           "title": "My First Hackathon Experience",
           "description": "Published blog throwing light on the experience on my first participated hackathon",
           "image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg82xqljiuw8tvkc30rub.jpg",
-          "url":"https://sheetal-bajaj.hashnode.dev/my-first-hackathon-experience",
+          "url": "https://sheetal-bajaj.hashnode.dev/my-first-hackathon-experience",
           "type": "blog"
         },
         {
           "title": "Best freshers team in first participated hackathon",
           "description": "Thrilled to share that our team-TRiCoders resulted as the 'Best Freshers Team' (jointly) at my very first hackathon",
           "image": "https://media.licdn.com/dms/image/v2/D4E22AQGvojKOCcEdoQ/feedshare-shrink_800/feedshare-shrink_800/0/1732028810858?e=1738195200&v=beta&t=h0-DBaW7FZGGtvEPe1q7nF-nxxjhe77fOcTi5qbRFOg",
-          "url":"https://www.linkedin.com/posts/sheetal-bajaj-s06091009_tricoders-bestfreshersteam-hackathon-activity-7264655385108615168-sKVv?utm_source=share&utm_medium=member_desktop",
+          "url": "https://www.linkedin.com/posts/sheetal-bajaj-s06091009_tricoders-bestfreshersteam-hackathon-activity-7264655385108615168-sKVv?utm_source=share&utm_medium=member_desktop",
           "type": "linkedin"
         }
       ]
@@ -904,25 +917,15 @@
         "instagram": "https://www.instagram.com/pro_lay04/"
       },
 
-      "top-skills": [
-        "C",
-        "C++"
-      ],
+      "top-skills": ["C", "C++"],
       "skills": [
         {
           "title": "Languages",
-          "techStack": [
-            "C",
-            "C++"
-          ]
+          "techStack": ["C", "C++"]
         },
         {
           "title": "Tools",
-          "techStack": [
-            "Git",
-            "GitHub",
-            "VS Code"
-          ]
+          "techStack": ["Git", "GitHub", "VS Code"]
         }
       ],
       "projects": [
@@ -960,7 +963,7 @@
           "title": "Basics of Git & GitHub",
           "description": "Participated in informative Git & GitHub sessions. Thanks to Async Devs Community.",
           "image": "https://media.licdn.com/dms/image/v2/D5622AQFhGwFd2U7gpA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1730050299484?e=1738195200&v=beta&t=tJWpvB_pYJLXL2YxgIxBTANYKX4fmGnQKTSE78I1xFs",
-          "url":"https://www.linkedin.com/posts/prolayjit-biswas_linkedinconnections-activity-7256356901725089793-iOhK?utm_source=share&utm_medium=member_desktop",
+          "url": "https://www.linkedin.com/posts/prolayjit-biswas_linkedinconnections-activity-7256356901725089793-iOhK?utm_source=share&utm_medium=member_desktop",
           "type": "linkedin"
         }
       ]
@@ -1590,7 +1593,6 @@
         "Front-end Web Developer",
         "Development with Python",
         "ML Engineer"
-      
       ],
       "color": "brown",
       "avatar": "https://ibb.co/ySKV9Cx",
@@ -1607,7 +1609,7 @@
         "facebook": "https://www.facebook.com/manju.mitra.9216/"
       },
 
-      "top-skills": [ "HTML", "CSS", "PYTHON"],
+      "top-skills": ["HTML", "CSS", "PYTHON"],
       "skills": [
         {
           "title": "ML Engineer",
@@ -1615,7 +1617,7 @@
         },
         {
           "title": "Frontend Development",
-          "techStack": ["HTML","CSS"]
+          "techStack": ["HTML", "CSS"]
         }
       ],
       "projects": [
@@ -1626,7 +1628,7 @@
         },
         {
           "name": "Payment-Fraud-Detection",
-          "link": "r/C:\Users\Dipon Mitra\OneDrive\Desktop\.ipynb_checkpoints\Payment_fraud_detection-checkpoint.ipynb",
+          "link": "",
           "description": "A model for prediction of payment fraud"
         }
       ],
