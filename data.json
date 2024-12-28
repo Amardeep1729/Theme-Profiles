@@ -905,13 +905,15 @@
       "typingTexts": [
         "B.Tech'28 ",
         "Coding Enthusiastic",
-        "Exploring the tech domain"
+        "Exploring the Tech Domain",
+        "College Hackathon Winner",
+        "learner"
       ],
       "color": "brown",
       "avatar": "https://media.licdn.com/dms/image/v2/D5603AQGFOoJhY99OTw/profile-displayphoto-shrink_800_800/B56ZOXbECGHYAc-/0/1733412275824?e=1740614400&v=beta&t=-qHQQOoLfCLLdnqSv0nHdPTjPPdiUBmg64IBbu12_5M",
       "banner": "https://www.linkedin.com/dms/prv/vid/v2/D5606AQERc6PIhHy8XQ/messaging-attachmentFile/messaging-attachmentFile/0/1735372614806?m=AQJAdFgjL9uouQAAAZQMRLbbUU2FBUhqPyQaedtCYHH_tYs2QeiVCKSGDE4&ne=1&v=beta&t=fWLl8Po38G7TaP72gOpD-X6Wv2Yp1cEYk0jfRYonCqE",
       "bio": "Enthusiastic Tech Fresher passionate about coding, A.I and Data Science",
-      "title": "Undergraduate Student, aspiring programmer",
+      "title": "Undergraduate Student, Aspiring Programmer",
       "description": "I am studying B.Tech Electronics at Maulana Abul Kalam Azad University of Technology, West Bengal.A passionate 1st-year student eager to dive into the worlds of coding.Currently building a strong foundation in programming and excited to learn and grow in the tech field. ",
       "socialLinks": {
         "linkedin": "https://www.linkedin.com/in/prolayjit-biswas-030024275/",
@@ -958,11 +960,11 @@
       "interests": [
         {
           "title": "Artificial Intelligence",
-          "description": "Exploring the fundamentals of artificial intelligence to understand how intelligent systems work"
+          "description": "Exploring the fundamentals of A.I to understand how intelligent systems work"
         },
         {
           "title": "Data Science",
-          "description": "Passionate about data science, focusing on foundational skills like Python, statistics,"
+          "description": "Passionate about Data Science, focusing on foundational skills like Python, statistics,"
         }
       ],
       "posts": [
