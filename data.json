@@ -910,7 +910,7 @@
       "color": "brown",
       "avatar": "https://media.licdn.com/dms/image/v2/D5603AQGFOoJhY99OTw/profile-displayphoto-shrink_800_800/B56ZOXbECGHYAc-/0/1733412275824?e=1740614400&v=beta&t=-qHQQOoLfCLLdnqSv0nHdPTjPPdiUBmg64IBbu12_5M",
       "banner": "https://media.licdn.com/dms/image/v2/D5616AQFIuuk7wuvfSw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735366685156?e=1740614400&v=beta&t=EzhFyzat8yv2wpY2J35M4Qdcs4NwdUw6vflsNCdFpNk",
-      "bio": "Enthusiastic Tech Fresher passionate about coding, A,I, Cyber Security and Data Science",
+      "bio": "Enthusiastic Tech Fresher passionate about coding, A.I and Data Science",
       "title": "Undergraduate Student, aspiring programmer",
       "description": "I am studying B.Tech Electronics at Maulana Abul Kalam Azad University of Technology, West Bengal.A passionate 1st-year student eager to dive into the worlds of coding.Currently building a strong foundation in programming and excited to learn and grow in the tech field. ",
       "socialLinks": {
@@ -922,7 +922,8 @@
       },
 
       "top-skills": [
-        "C"
+        "C",
+        "C++"
       ],
       "skills": [
         {
@@ -968,7 +969,7 @@
         {
           "title": "My First Hackathon Experience",
           "description": "Secured the Freshers Team position (Jointly) in the Hackathon competition at Anweshan 2024, MAKAUT, WB.",
-          "image": "file:///C:/Users/PROLAYJIT%20BISWAS/Pictures/Screenshots/Screenshot%202024-12-28%20123909.png",
+          "image": "https://media.licdn.com/dms/image/v2/D5622AQEVdgxWVRHjVA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1732040981267?e=1738195200&v=beta&t=sQDL2PutYTajS4CojtwRPsYvFyFhCzEG7Jv_QNruYz0",
           "url": "https://www.linkedin.com/posts/prolayjit-biswas_hackathon-anweshan-hackathon-activity-7264706441842696192-Kb6k?utm_source=share&utm_medium=member_desktop",
           "type": "linkedin"
         },
