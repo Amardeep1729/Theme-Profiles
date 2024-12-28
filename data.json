@@ -608,104 +608,103 @@
     },
     {
       "name": "Sheetal Bajaj",
-      "typingTexts": [""],
-      "color": "base",
-      "avatar": "",
-      "banner": "",
-      "bio": "",
-      "title": "",
-      "description": "",
+      "typingTexts": [
+        "B.Tech Undergraduate'28",
+        "Blog Writer @Hashnode and @Dev",
+        "Learning Web Development",
+        "Learning DSA with C++",
+        "College Hackathon Winner",
+        "Learning Python"
+      ],
+      "color": "cyan",
+      "avatar": "https://media.licdn.com/dms/image/v2/D4D03AQFV6_rTYy8YIA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1732165162490?e=1740614400&v=beta&t=0kGaoxD_ee2aJ7A8ZZN36Lw37rEFZKBN42R_5jZ8NzY",
+      "banner": "https://media.licdn.com/dms/image/v2/D4E16AQFBAvbIUy_miA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729243995425?e=1740614400&v=beta&t=nbR8F56VV_5m2N-ENM0elkHog2cS8pPkGnOC8-ZQ4og",
+      "bio": "Passionate about building creative projects.",
+      "title": "IT undergraduate'28",
+      "description": "IT enthusiatic graduating in 2028,pursues interests in web development,coding and technical writing.",
       "socialLinks": {
-        "linkedin": "",
-        "twitter": "",
-        "github": "",
-        "hashnode": "",
-        "instagram": "",
-        "facebook": ""
+        "linkedin": "https://www.linkedin.com/in/sheetal-bajaj-s06091009/",
+        "twitter": "https://x.com/Sheetal_11",
+        "github": "https://github.com/Sheetal-cell",
+        "hashnode": "https://hashnode.com/@SheetalBajaj",
+        "dev": "https://dev.to/sheetal_bajaj"
       },
 
-      "top-skills": [],
+      "top-skills": ["C++","Python","HTML"],
       "skills": [
         {
-          "title": "",
-          "techStack": []
+          "title": "Web Development",
+          "techStack": ["HTML","CSS"]
         },
         {
-          "title": "",
-          "techStack": []
+          "title": "Languages",
+          "techStack": ["C","C++","Python"]
         },
         {
-          "title": "",
-          "techStack": []
+          "title": "Tools",
+          "techStack": ["Git","GitHub","VS Code"]
         },
         {
-          "title": "",
-          "techStack": []
-        },
-        {
-          "title": "",
-          "techStack": []
+          "title": "Data Structure and Analysis(DSA)",
+          "techStack": ["C++"]
         }
       ],
       "projects": [
         {
-          "name": "",
-          "link": "",
-          "description": ""
-        },
-        {
-          "name": "",
-          "link": "",
-          "description": ""
+          "name": "Anweshan website",
+          "link": "https://anweshan-2k24.netlify.app/",
+          "description": "An event management website having interactive and responsive features on a single platform."
         }
       ],
       "education": [
         {
-          "year": "",
-          "details": ""
+          "year": "2028",
+          "details": "B.Tech in Information Technology (Maulana Abul Kalam Azad University of Technology)"
         },
         {
-          "year": "",
-          "details": ""
+          "year": "2024",
+          "details": "Class XII - 86%(CBSE)"
         },
         {
-          "year": "",
-          "details": ""
+          "year": "2022",
+          "details": "Class X - 96%(CBSE)"
         }
       ],
       "interests": [
         {
-          "title": "",
-          "description": ""
+          "title": "Project-building",
+          "description": "Making projects based on learned tech stacks and exploring creative projects"
         },
         {
-          "title": "",
-          "description": ""
+          "title": "Open Source",
+          "description": "Contributing to open-source projects and communities."
         },
         {
-          "title": "",
-          "description": ""
+          "title": "Hackathons and programming competitions",
+          "description": "Participating in coding competitions and hackathon events"
         }
       ],
       "posts": [
         {
-          "title": "",
-          "description": "",
-          "image": "",
-          "url": "",
-          "type": ""
+          "title": "Mastering GitHub",
+          "description": "Published my first blog sequence titled:'The Git Spot',with 2 blogs on GitHub in hashnode",
+          "image": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733649791806/4ef2f6d6-a9f0-48a4-8ba3-5af959bf5868.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp",
+          "url": "https://github-beginning.hashnode.dev/",
+          "type": "blog"
         },
         {
-          "title": "",
-          "description": "",
-          "image": "",
-          "type": ""
+          "title": "My First Hackathon Experience",
+          "description": "Published blog throwing light on the experience on my first participated hackathon",
+          "image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg82xqljiuw8tvkc30rub.jpg",
+          "url":"https://dev.to/sheetal_bajaj/my-first-hackathon-experience-386g",
+          "type": "blog"
         },
         {
-          "title": "",
-          "description": "",
-          "image": "",
-          "type": ""
+          "title": "Best freshers team in first participated hackathon",
+          "description": "Thrilled to share that our team-TRiCoders resulted as the 'Best Freshers Team' (jointly) at my very first hackathon",
+          "image": "https://media.licdn.com/dms/image/v2/D4E22AQGvojKOCcEdoQ/feedshare-shrink_800/feedshare-shrink_800/0/1732028810858?e=1738195200&v=beta&t=h0-DBaW7FZGGtvEPe1q7nF-nxxjhe77fOcTi5qbRFOg",
+          "url":"https://www.linkedin.com/posts/sheetal-bajaj-s06091009_tricoders-bestfreshersteam-hackathon-activity-7264655385108615168-sKVv?utm_source=share&utm_medium=member_desktop",
+          "type": "linkedin"
         }
       ]
     },
