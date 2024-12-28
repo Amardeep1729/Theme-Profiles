@@ -505,50 +505,34 @@
     },
     {
       "name": "Debopam Sarkar",
-      "typingTexts": [""],
-      "color": "base",
-      "avatar": "",
-      "banner": "",
-      "bio": "",
-      "title": "",
-      "description": "",
+      "typingTexts": ["B.Tech(CSE)'28", "Coding", "Tech Explorer", "Aspiring Deeloper", "DSA"],
+      "color": "blue",
+      "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQFPYZE2Umj9nw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1727443848105?e=1740614400&v=beta&t=IptHuYsfG55gP-hIIgXXduYF7EBFgr7gA7YQhrJQlM4",
+      "banner": "https://media.licdn.com/dms/image/v2/D4E16AQE0LyyGwCeFEQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730102918391?e=1740614400&v=beta&t=frZPnpMho5HUbySGqkzjCOE_OMqSL4Pa9g0Aut90fhs",
+      "bio": "MAKAUT'28",
+      "title": "Aspiring Developer",
+      "description": "CS enthusiast graduating in 2028 and also an aspiring developer",
       "socialLinks": {
-        "linkedin": "",
-        "twitter": "",
-        "github": "",
-        "hashnode": "",
-        "instagram": "",
-        "facebook": ""
+        "linkedin": "https://www.linkedin.com/in/debopam-sarkar/",
+        "twitter": "https://x.com/debopam525",
+        "github": "https://github.com/debopam525",
+        "hashnode": "https://hashnode.com/@debopam525",
+        "instagram": "https://www.instagram.com/_.debopam._/",
+        "facebook": "https://www.facebook.com/profile.php?id=61561660244684"
       },
 
-      "top-skills": [],
+      "top-skills": ["Java", "Python", "C", "C++"],
       "skills": [
         {
-          "title": "",
-          "techStack": []
-        },
-        {
-          "title": "",
-          "techStack": []
-        },
-        {
-          "title": "",
-          "techStack": []
-        },
-        {
-          "title": "",
-          "techStack": []
-        },
-        {
-          "title": "",
-          "techStack": []
+          "title": "TECH",
+          "techStack": ["Open-Source Development", "C", "C++","Java", "Python", "Git", "GitHub", "VS Code"]
         }
       ],
       "projects": [
         {
-          "name": "",
-          "link": "",
-          "description": ""
+          "name": "Library Management system",
+          "link": "https://github.com/priyanka-mistry04/Library_Management_System/commit/52a560584c70786a34b9a05366a5d2b45b6d9c08",
+          "description": "A project for Hackathon in Anweshan 2k24 organised by HACKAUT | MAKAUT, WB"
         },
         {
           "name": "",
@@ -558,45 +542,46 @@
       ],
       "education": [
         {
-          "year": "",
-          "details": ""
+          "year": "2022",
+          "details": "Class X - 95% in ICSE from Bishop Morrow School"
         },
         {
-          "year": "",
-          "details": ""
+          "year": "2024",
+          "details": "Class XII - 94.75% in ISC from Bishop Morrow School"
         },
         {
-          "year": "",
-          "details": ""
+          "year": "2028",
+          "details": "B. Tech in Computer Science and Engineering (Maulana Abul Kalam Azad University of Technology)"
         }
       ],
       "interests": [
         {
-          "title": "",
-          "description": ""
+          "title": "DSA",
+          "description": "Learning Data Structures and Algorithms"
         },
         {
-          "title": "",
-          "description": ""
+          "title": "Open Source",
+          "description": "Contributing to open-source projects and communities"
         },
         {
-          "title": "",
-          "description": ""
+          "title": "Competitive Programming",
+          "description": "Participating in coding competitions and challenges like Hackathon"
         }
       ],
       "posts": [
         {
-          "title": "",
-          "description": "",
-          "image": "",
-          "url": "",
-          "type": ""
+          "title": "Hackathon 2k24",
+          "description": "Successfully received the Best Freshers Team Award (jointly) in our very first Hackathon at Anweshan 2k24, organised by HACKAUT | MAKAUT, WB",
+          "image": "https://media.licdn.com/dms/image/v2/D5622AQEVdgxWVRHjVA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1732040981267?e=1738195200&v=beta&t=sQDL2PutYTajS4CojtwRPsYvFyFhCzEG7Jv_QNruYz0",
+          "url": "https://www.linkedin.com/posts/prolayjit-biswas_hackathon-anweshan-hackathon-ugcPost-7264706440467030017-8VMN?utm_source=share&utm_medium=member_desktop",
+          "type": "LinkedIn"
         },
         {
-          "title": "",
-          "description": "",
-          "image": "",
-          "type": ""
+          "title": "Participation in Quick Start to your Programming Journey organised by HACKAUT | MAKAUT, WB",
+          "description": "Received a certificate of participation",
+          "image": "https://d8it4huxumps7.cloudfront.net/lambda-pdfs/certificate-images/23f7ad99-6f07-4bfd-9411-3cc308654aa0.jpg",
+          "url": "https://unstop.com/certificate-preview/23f7ad99-6f07-4bfd-9411-3cc308654aa0?utm_campaign",
+          "type": "LinkedIn, Unstop"
         },
         {
           "title": "",
@@ -608,104 +593,103 @@
     },
     {
       "name": "Sheetal Bajaj",
-      "typingTexts": [""],
-      "color": "base",
-      "avatar": "",
-      "banner": "",
-      "bio": "",
-      "title": "",
-      "description": "",
+      "typingTexts": [
+        "B.Tech Undergraduate'28",
+        "Blog Writer @Hashnode and @Dev",
+        "Learning Web Development",
+        "Learning DSA with C++",
+        "College Hackathon Winner",
+        "Learning Python"
+      ],
+      "color": "cyan",
+      "avatar": "https://media.licdn.com/dms/image/v2/D4D03AQFV6_rTYy8YIA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1732165162490?e=1740614400&v=beta&t=0kGaoxD_ee2aJ7A8ZZN36Lw37rEFZKBN42R_5jZ8NzY",
+      "banner": "https://media.licdn.com/dms/image/v2/D4E16AQFBAvbIUy_miA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729243995425?e=1740614400&v=beta&t=nbR8F56VV_5m2N-ENM0elkHog2cS8pPkGnOC8-ZQ4og",
+      "bio": "Passionate about building creative projects.",
+      "title": "IT undergraduate'28",
+      "description": "IT enthusiatic graduating in 2028,pursues interests in web development,coding and technical writing.",
       "socialLinks": {
-        "linkedin": "",
-        "twitter": "",
-        "github": "",
-        "hashnode": "",
-        "instagram": "",
-        "facebook": ""
+        "linkedin": "https://www.linkedin.com/in/sheetal-bajaj-s06091009/",
+        "twitter": "https://x.com/Sheetal_11",
+        "github": "https://github.com/Sheetal-cell",
+        "hashnode": "https://hashnode.com/@SheetalBajaj",
+        "dev": "https://dev.to/sheetal_bajaj"
       },
 
-      "top-skills": [],
+      "top-skills": ["C++","Python","HTML"],
       "skills": [
         {
-          "title": "",
-          "techStack": []
+          "title": "Web Development",
+          "techStack": ["HTML","CSS"]
         },
         {
-          "title": "",
-          "techStack": []
+          "title": "Languages",
+          "techStack": ["C","C++","Python"]
         },
         {
-          "title": "",
-          "techStack": []
+          "title": "Tools",
+          "techStack": ["Git","GitHub","VS Code"]
         },
         {
-          "title": "",
-          "techStack": []
-        },
-        {
-          "title": "",
-          "techStack": []
+          "title": "Data Structure and Analysis(DSA)",
+          "techStack": ["C++"]
         }
       ],
       "projects": [
         {
-          "name": "",
-          "link": "",
-          "description": ""
-        },
-        {
-          "name": "",
-          "link": "",
-          "description": ""
+          "name": "Anweshan website",
+          "link": "https://anweshan-2k24.netlify.app/",
+          "description": "An event management website having interactive and responsive features on a single platform."
         }
       ],
       "education": [
         {
-          "year": "",
-          "details": ""
+          "year": "2028",
+          "details": "B.Tech in Information Technology (Maulana Abul Kalam Azad University of Technology)"
         },
         {
-          "year": "",
-          "details": ""
+          "year": "2024",
+          "details": "Class XII - 86%(CBSE)"
         },
         {
-          "year": "",
-          "details": ""
+          "year": "2022",
+          "details": "Class X - 96%(CBSE)"
         }
       ],
       "interests": [
         {
-          "title": "",
-          "description": ""
+          "title": "Project-building",
+          "description": "Making projects based on learned tech stacks and exploring creative projects"
         },
         {
-          "title": "",
-          "description": ""
+          "title": "Open Source",
+          "description": "Contributing to open-source projects and communities."
         },
         {
-          "title": "",
-          "description": ""
+          "title": "Hackathons and programming competitions",
+          "description": "Participating in coding competitions and hackathon events"
         }
       ],
       "posts": [
         {
-          "title": "",
-          "description": "",
-          "image": "",
-          "url": "",
-          "type": ""
+          "title": "Mastering GitHub",
+          "description": "Published my first blog sequence titled:'The Git Spot',with 2 blogs on GitHub in hashnode",
+          "image": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733649791806/4ef2f6d6-a9f0-48a4-8ba3-5af959bf5868.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp",
+          "url": "https://sheetal-bajaj.hashnode.dev/github-basics-creating-and-setting-up-a-repository",
+          "type": "blog"
         },
         {
-          "title": "",
-          "description": "",
-          "image": "",
-          "type": ""
+          "title": "My First Hackathon Experience",
+          "description": "Published blog throwing light on the experience on my first participated hackathon",
+          "image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg82xqljiuw8tvkc30rub.jpg",
+          "url":"https://sheetal-bajaj.hashnode.dev/my-first-hackathon-experience",
+          "type": "blog"
         },
         {
-          "title": "",
-          "description": "",
-          "image": "",
-          "type": ""
+          "title": "Best freshers team in first participated hackathon",
+          "description": "Thrilled to share that our team-TRiCoders resulted as the 'Best Freshers Team' (jointly) at my very first hackathon",
+          "image": "https://media.licdn.com/dms/image/v2/D4E22AQGvojKOCcEdoQ/feedshare-shrink_800/feedshare-shrink_800/0/1732028810858?e=1738195200&v=beta&t=h0-DBaW7FZGGtvEPe1q7nF-nxxjhe77fOcTi5qbRFOg",
+          "url":"https://www.linkedin.com/posts/sheetal-bajaj-s06091009_tricoders-bestfreshersteam-hackathon-activity-7264655385108615168-sKVv?utm_source=share&utm_medium=member_desktop",
+          "type": "linkedin"
         }
       ]
     },
