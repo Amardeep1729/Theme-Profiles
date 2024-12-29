@@ -689,31 +689,31 @@
     },
     {
       "name": "Shreyaushi Das",
-      "typingTexts": [""],
-      "color": "base",
-      "avatar": "",
-      "banner": "",
-      "bio": "",
-      "title": "",
-      "description": "",
+      "typingTexts": ["coding enthusiast","curious learner","dsa with java"],
+      "color": "purple",
+      "avatar": "https://avatars.githubusercontent.com/u/185457484?s=400&u=191ca0d512b95bb6a4a753e2c23ca3d5534340bc&v=4",
+      "banner": "images/shreyaushidas/SHREYAUSHI DAS[1].png",
+      "bio": "Btech.IT student",
+      "title": "coding with passion and precision",
+      "description": "I am a Btech,IT student exploring coding world with keen interest in Data Analysis",
       "socialLinks": {
-        "linkedin": "",
-        "twitter": "",
-        "github": "",
-        "hashnode": "",
+        "linkedin": "https://www.linkedin.com/in/shreyaushi-das-3a0179316/",
+        "twitter": "https://x.com/ShreyaushiD",
+        "github": "https://github.com/shreyaushi-Das",
+        "hashnode": "https://hashnode.com/@shreyaushi",
         "instagram": "",
         "facebook": ""
       },
 
-      "top-skills": [],
+      "top-skills": ["java","c++"],
       "skills": [
         {
-          "title": "",
-          "techStack": []
+          "title": "Languages",
+          "techStack": ["java","c++","python"]
         },
         {
-          "title": "",
-          "techStack": []
+          "title": "frontend",
+          "techStack": ["HTML"]
         },
         {
           "title": "",
@@ -730,9 +730,9 @@
       ],
       "projects": [
         {
-          "name": "",
-          "link": "",
-          "description": ""
+          "name": "Data Structure Through biginners perspective",
+          "link": "https://shreyaushi.hashnode.dev/data-structures-and-algorithms-through-a-beginners-perspective",
+          "description": "intoduction to Data Structure and Algorithm ,different language to choose from  and with recommended youtube channels for each languages"
         },
         {
           "name": "",
@@ -742,51 +742,51 @@
       ],
       "education": [
         {
-          "year": "",
-          "details": ""
+          "year": "2022",
+          "details": "class X-92%(ICSE)(St.Xavier's Instituition)"
         },
         {
-          "year": "",
-          "details": ""
+          "year": "2024",
+          "details": "class XII-92%(ISC)(St.Xavier's Instituition)"
         },
         {
-          "year": "",
-          "details": ""
+          "year": "2028",
+          "details": "Bachelor of Technology in Information Technology"
         }
       ],
       "interests": [
         {
-          "title": "",
-          "description": ""
+          "title": "machine learning",
+          "description": "fascinated by its potential to revolunize industry through intelligent automation"
         },
         {
-          "title": "",
-          "description": ""
+          "title": "web development",
+          "description": "it combines problem solving, innovation and creative design to make user friendly experiences"
         },
         {
-          "title": "",
-          "description": ""
+          "title": "UI/UX design",
+          "description": "it empowers me to tell stories,combines creativity and technology to create interaction between humans and digital products"
         }
       ],
       "posts": [
         {
-          "title": "",
-          "description": "",
-          "image": "",
-          "url": "",
-          "type": ""
+          "title": "Blog on hashnode",
+          "description": "Data Structure and Algorithm from a biginners perspective",
+          "image": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733458537022/cbbccf7f-3e21-4401-a6fb-250926175180.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp",
+          "url": "https://shreyaushi.hashnode.dev/data-structures-and-algorithms-through-a-beginners-perspective",
+          "type": "Hashnode Blog"
         },
         {
-          "title": "",
-          "description": "",
-          "image": "",
-          "type": ""
+          "title": "completed gen_ai campaign",
+          "description": "completion of Gen_AI campaign hosted by GDGoC MAKAUT",
+          "image": "https://media.licdn.com/dms/image/v2/D4E22AQE8Z05LjF7x7Q/feedshare-shrink_1280/feedshare-shrink_1280/0/1731598033339?e=1738195200&v=beta&t=TrbUAepIhjgJifZwaxua1PVRQtsD4nyMaTqSRua7lLU",
+          "type": "linkedin"
         },
         {
-          "title": "",
-          "description": "",
-          "image": "",
-          "type": ""
+          "title": "Attended PYTHON workshop ",
+          "description": "python workshp conducted bY GDGoC MAKAUT",
+          "image": "https://media.licdn.com/dms/image/v2/D4E22AQEFiJ3lXPyTEg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1733734528682?e=1738195200&v=beta&t=2EpmrkDDW-JgSFBoaEjwroPsk8bxNi-fpFjmLptd6JY",
+          "type": "linkedin"
         }
       ]
     },
