@@ -1367,104 +1367,81 @@
     },
     {
       "name": "Ankita Sarkar",
-      "typingTexts": [""],
-      "color": "base",
+      "typingTexts": ["Enthusiastic Learner"],
+      "color": "brown",
       "avatar": "",
       "banner": "",
-      "bio": "",
-      "title": "",
-      "description": "",
+      "bio": "Enthusiastic Learner of MAKAUT",
+      "title": "Learning",
+      "description": "Lets Unfold Coding",
       "socialLinks": {
-        "linkedin": "",
-        "twitter": "",
-        "github": "",
-        "hashnode": "",
-        "instagram": "",
-        "facebook": ""
+        "linkedin": "https://www.linkedin.com/in/ankita-sarkar-717963340/",
+        "twitter": "https://x.com/sarkar13ankita",
+        "github": "https://github.com/Ankita1305del",
+        "hashnode": "https://hashnode.com/@ankitasarkar",
+        "instagram": "https://www.instagram.com/unforgettwble_ankita/"
       },
 
-      "top-skills": [],
+      "top-skills": ["Java","python","SQL"],
       "skills": [
         {
-          "title": "",
-          "techStack": []
+          "title": "Languages",
+          "techStack": ["Java","python","SQL"]
         },
         {
-          "title": "",
-          "techStack": []
-        },
-        {
-          "title": "",
-          "techStack": []
-        },
-        {
-          "title": "",
-          "techStack": []
-        },
-        {
-          "title": "",
-          "techStack": []
+          "title": "Tools",
+          "techStack": ["Git","GitHub","VS Code"]
         }
       ],
       "projects": [
         {
-          "name": "",
-          "link": "",
-          "description": ""
-        },
-        {
-          "name": "",
-          "link": "",
-          "description": ""
+          "name": "asyncdevs-fun",
+          "link": "https://github.com/Ankita1305del/asyncdevs-fun",
+          "description": "An project given by Async Devs community"
         }
       ],
       "education": [
         {
-          "year": "",
-          "details": ""
+          "year": "2022",
+          "details": "90%"
         },
         {
-          "year": "",
-          "details": ""
+          "year": "2024",
+          "details": "85%"
         },
         {
-          "year": "",
-          "details": ""
+          "year": "2028",
+          "details": "B.Tech in Information Technology (Maulana Abul Kalam Azad University of Technology)"
         }
       ],
       "interests": [
         {
-          "title": "",
-          "description": ""
+          "title": "Artificial Intelligence",
+          "description": "Exploring the impact of AI on web development."
         },
         {
-          "title": "",
-          "description": ""
+          "title": "Open Source",
+          "description": "Contributing to open-source projects and communities."
         },
         {
-          "title": "",
-          "description": ""
+          "title": "DSA",
+          "description": "Learning Data Structures and Algorithms"
         }
       ],
       "posts": [
         {
-          "title": "",
-          "description": "",
-          "image": "",
-          "url": "",
-          "type": ""
+          "title": "Attended Async Devs Session",
+          "description": "Attended a session organised by the Async Devs community regarding Git Hub",
+          "image": "https://pbs.twimg.com/media/GeNflRCbwAAdpJg?format=jpg&name=4096x4096",
+          "url": "https://x.com/sarkar13ankita/status/1865441201484439883",
+          "type": "X"
         },
         {
-          "title": "",
-          "description": "",
-          "image": "",
-          "type": ""
-        },
-        {
-          "title": "",
-          "description": "",
-          "image": "",
-          "type": ""
+          "title": "Champion",
+          "description": "Receiving Gold Medal at National level Competition at Delhi",
+          "image": "https://media.licdn.com/dms/image/v2/D5622AQEcUp7S7pEWUw/feedshare-shrink_1280/B56ZPqwuKNGQAs-/0/1734810463984?e=1738195200&v=beta&t=n7ZO3jRnzDhsNTh5GPbh_NI87zbPaJDn1kkVYp9wPVw",
+          "url":"https://www.linkedin.com/posts/ankita-sarkar-717963340_linkedincommunity-nationaltournament-gold-activity-7276322482481979392-46Pa?utm_source=share&utm_medium=member_desktop",
+          "type": "LinkedIn"
         }
       ]
     },
