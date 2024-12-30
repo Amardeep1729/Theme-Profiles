@@ -381,104 +381,89 @@
     },
     {
       "name": "Pappu Sarkar",
-      "typingTexts": [""],
-      "color": "base",
-      "avatar": "",
-      "banner": "",
-      "bio": "",
-      "title": "",
-      "description": "",
+      "typingTexts": [
+        "B.Tech IT '28",
+        "Coding Enthusiast",
+        "Aspiring Developer",
+        "Python",
+        "C++"
+      ],
+      "color": "cyan",
+      "avatar": "images/Pappu Sarkar/profile-pic.png",
+      "banner": "images/Pappu Sarkar/Banner.png",
+      "bio": "BTech IT Student | Code. Create. Innovate.",
+      "title": "Beginner",
+      "description": "Passionate About Coding",
       "socialLinks": {
-        "linkedin": "",
-        "twitter": "",
-        "github": "",
-        "hashnode": "",
-        "instagram": "",
-        "facebook": ""
+        "linkedin": "https://www.linkedin.com/in/pappu-sarkar-054042331/",
+        "twitter": "https://x.com/Pappu598",
+        "github": "https://github.com/PAPPU598",
+        "hashnode": "https://hashnode.com/@Pappu598",
+        "instagram": "https://www.instagram.com/pappu__3105/",
+        "facebook": "https://www.facebook.com/pappu.sarkar.96199344/"
       },
 
-      "top-skills": [],
+      "top-skills": ["Python", "C++", "CSS"],
       "skills": [
         {
-          "title": "",
-          "techStack": []
+          "title": "Frontend",
+          "techStack": ["HTML", "CSS", "JavaScript"]
         },
         {
-          "title": "",
-          "techStack": []
+          "title": "DSA",
+          "techStack": ["C++"]
         },
         {
-          "title": "",
-          "techStack": []
+          "title": "Tools",
+          "techStack": ["Git", "GitHub", "VS Code"]
         },
         {
-          "title": "",
-          "techStack": []
-        },
-        {
-          "title": "",
-          "techStack": []
+          "title": "Languages",
+          "techStack": ["C", "C++", "Python"]
         }
       ],
       "projects": [
         {
-          "name": "",
-          "link": "",
-          "description": ""
-        },
-        {
-          "name": "",
-          "link": "",
-          "description": ""
+          "name": "asyncdevs-fun",
+          "link": "https://github.com/PAPPU598/asyncdevs-fun.git",
+          "description": "An assignment given by Async Devs community"
         }
       ],
       "education": [
         {
-          "year": "",
-          "details": ""
+          "year": "2021",
+          "details": "Class X - 84%(WBBSE)(Kunoir K.C High School)"
         },
         {
-          "year": "",
-          "details": ""
+          "year": "2023",
+          "details": "Class XII - 72%(WBCHSE)(Kunoir K.C High School)"
         },
         {
-          "year": "",
-          "details": ""
+          "year": "2028",
+          "details": "B.Tech in Information Technology - (Maulana Abul Kalam Azad University of Technology,West Bengal)"
         }
       ],
       "interests": [
         {
-          "title": "",
-          "description": ""
+          "title": "Artificial Intelligence",
+          "description": "Exploring the impact of AI on web development."
         },
         {
-          "title": "",
-          "description": ""
+          "title": "Open Source",
+          "description": "Contributing to open-source projects and communities."
         },
         {
-          "title": "",
-          "description": ""
+          "title": "DSA",
+          "description": "Learning Data Structures and Algorithms"
         }
       ],
       "posts": [
         {
-          "title": "",
-          "description": "",
-          "image": "",
-          "url": "",
-          "type": ""
-        },
-        {
-          "title": "",
-          "description": "",
-          "image": "",
-          "type": ""
-        },
-        {
-          "title": "",
-          "description": "",
-          "image": "",
-          "type": ""
+          "title": "Attended Async Devs Session",
+          "description": "Attended a session organised by the Async Devs community on the importance of Social Media",
+          "image": "https://pbs.twimg.com/media/GdiL7yWWcAAvm0i?format=jpg&name=large",
+          "url": "https://x.com/Pappu598/status/1862393317205713202",
+          "type": "X"
         }
       ]
     },
@@ -689,7 +674,7 @@
     },
     {
       "name": "Shreyaushi Das",
-      "typingTexts": ["coding enthusiast","curious learner","dsa with java"],
+      "typingTexts": ["coding enthusiast", "curious learner", "dsa with java"],
       "color": "purple",
       "avatar": "https://avatars.githubusercontent.com/u/185457484?s=400&u=191ca0d512b95bb6a4a753e2c23ca3d5534340bc&v=4",
       "banner": "images/shreyaushidas/SHREYAUSHI DAS[1].png",
@@ -705,11 +690,11 @@
         "facebook": ""
       },
 
-      "top-skills": ["java","c++"],
+      "top-skills": ["java", "c++"],
       "skills": [
         {
           "title": "Languages",
-          "techStack": ["java","c++","python"]
+          "techStack": ["java", "c++", "python"]
         },
         {
           "title": "frontend",
@@ -1382,104 +1367,81 @@
     },
     {
       "name": "Ankita Sarkar",
-      "typingTexts": [""],
-      "color": "base",
-      "avatar": "",
-      "banner": "",
-      "bio": "",
-      "title": "",
-      "description": "",
+      "typingTexts": ["Enthusiastic Learner"],
+      "color": "brown",
+      "avatar": "https://media.licdn.com/dms/image/v2/D5603AQFxSqR9LcAUhg/profile-displayphoto-shrink_400_400/B56ZOhqOYYGcAg-/0/1733584021505?e=1741219200&v=beta&t=TGPMhxwXmoUI_eTBAxwrrGndF03QP4Ws17BlAPGHWZI",
+      "banner": "https://media.licdn.com/dms/image/v2/D5616AQF4cJWsESwg4g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733912250241?e=1741219200&v=beta&t=eu8IxNd-o-Vdligr1qPyLD9wm78OfIENN8d8z2mjfr0",
+      "bio": "Enthusiastic Learner of MAKAUT",
+      "title": "Learning",
+      "description": "Lets Unfold Coding",
       "socialLinks": {
-        "linkedin": "",
-        "twitter": "",
-        "github": "",
-        "hashnode": "",
-        "instagram": "",
-        "facebook": ""
+        "linkedin": "https://www.linkedin.com/in/ankita-sarkar-717963340/",
+        "twitter": "https://x.com/sarkar13ankita",
+        "github": "https://github.com/Ankita1305del",
+        "hashnode": "https://hashnode.com/@ankitasarkar",
+        "instagram": "https://www.instagram.com/unforgettwble_ankita/"
       },
 
-      "top-skills": [],
+      "top-skills": ["Java", "python", "SQL"],
       "skills": [
         {
-          "title": "",
-          "techStack": []
+          "title": "Languages",
+          "techStack": ["Java", "python", "SQL"]
         },
         {
-          "title": "",
-          "techStack": []
-        },
-        {
-          "title": "",
-          "techStack": []
-        },
-        {
-          "title": "",
-          "techStack": []
-        },
-        {
-          "title": "",
-          "techStack": []
+          "title": "Tools",
+          "techStack": ["Git", "GitHub", "VS Code"]
         }
       ],
       "projects": [
         {
-          "name": "",
-          "link": "",
-          "description": ""
-        },
-        {
-          "name": "",
-          "link": "",
-          "description": ""
+          "name": "asyncdevs-fun",
+          "link": "https://github.com/Ankita1305del/asyncdevs-fun",
+          "description": "An project given by Async Devs community"
         }
       ],
       "education": [
         {
-          "year": "",
-          "details": ""
+          "year": "2022",
+          "details": "90%"
         },
         {
-          "year": "",
-          "details": ""
+          "year": "2024",
+          "details": "85%"
         },
         {
-          "year": "",
-          "details": ""
+          "year": "2028",
+          "details": "B.Tech in Information Technology (Maulana Abul Kalam Azad University of Technology)"
         }
       ],
       "interests": [
         {
-          "title": "",
-          "description": ""
+          "title": "Artificial Intelligence",
+          "description": "Exploring the impact of AI on web development."
         },
         {
-          "title": "",
-          "description": ""
+          "title": "Open Source",
+          "description": "Contributing to open-source projects and communities."
         },
         {
-          "title": "",
-          "description": ""
+          "title": "DSA",
+          "description": "Learning Data Structures and Algorithms"
         }
       ],
       "posts": [
         {
-          "title": "",
-          "description": "",
-          "image": "",
-          "url": "",
-          "type": ""
+          "title": "Attended Async Devs Session",
+          "description": "Attended a session organised by the Async Devs community regarding Git Hub",
+          "image": "https://pbs.twimg.com/media/GeNflRCbwAAdpJg?format=jpg&name=4096x4096",
+          "url": "https://x.com/sarkar13ankita/status/1865441201484439883",
+          "type": "X"
         },
         {
-          "title": "",
-          "description": "",
-          "image": "",
-          "type": ""
-        },
-        {
-          "title": "",
-          "description": "",
-          "image": "",
-          "type": ""
+          "title": "Champion",
+          "description": "Receiving Gold Medal at National level Competition at Delhi",
+          "image": "https://media.licdn.com/dms/image/v2/D5622AQEcUp7S7pEWUw/feedshare-shrink_1280/B56ZPqwuKNGQAs-/0/1734810463984?e=1738195200&v=beta&t=n7ZO3jRnzDhsNTh5GPbh_NI87zbPaJDn1kkVYp9wPVw",
+          "url": "https://www.linkedin.com/posts/ankita-sarkar-717963340_linkedincommunity-nationaltournament-gold-activity-7276322482481979392-46Pa?utm_source=share&utm_medium=member_desktop",
+          "type": "linkedIn"
         }
       ]
     },
@@ -1936,11 +1898,11 @@
       "education": [
         {
           "year": "2021",
-          "details": "class X-92%(ICSE Indira Gandhi Memorial Senior Secondary School)"
+          "details": "class X-92%"
         },
         {
           "year": "2023",
-          "details": "class XII-78%(WBCHSE Barrackpore Senate Public School)"
+          "details": "class XII-80%"
         },
         {
           "year": "2028",
