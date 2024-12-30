@@ -1882,39 +1882,39 @@
     },
     {
       "name": "Subhajit",
-      "typingTexts": [""],
-      "color": "base",
-      "avatar": "",
-      "banner": "",
-      "bio": "",
-      "title": "",
-      "description": "",
+      "typingTexts": ["Web Developer", "DSA"],
+      "color": "orange",
+      "avatar": "images/Subhajit_shaw/profile.png",
+      "banner": "images/Subhajit_shaw/banner.png",
+      "bio": "Hungry learner, passionate about web, software development, AI",
+      "title": "Aspiring Software Developer",
+      "description": "IT enthusiast graduating in 2028, Exploring the world of development and data science. Eager to innovate and collaborate ",
       "socialLinks": {
-        "linkedin": "",
-        "twitter": "",
-        "github": "",
+        "linkedin": "https://www.linkedin.com/in/subhajit-shaw-56610b208/",
+        "twitter": "https://x.com/Subhajit21769457",
+        "github": "https://github.com/lucifer-990",
         "hashnode": "",
         "instagram": "",
         "facebook": ""
       },
 
-      "top-skills": [],
+      "top-skills": ["JavaScript","Java","React"],
       "skills": [
         {
-          "title": "",
-          "techStack": []
+          "title": "Languages",
+          "techStack": ["JavaScript","Java","C++"]
         },
         {
-          "title": "",
-          "techStack": []
+          "title": "Frontend",
+          "techStack": ["HTML","CSS","JavaScript","React","JQuery"]
         },
         {
-          "title": "",
-          "techStack": []
+          "title": "DSA",
+          "techStack": ["Java","C++"]
         },
         {
-          "title": "",
-          "techStack": []
+          "title": "Tools",
+          "techStack": ["VS Code","GitHub","Git","Vite","Anaconda","Postman"]
         },
         {
           "title": "",
@@ -1923,8 +1923,8 @@
       ],
       "projects": [
         {
-          "name": "",
-          "link": "",
+          "name": "Movies website UI",
+          "link": "https://github.com/lucifer-990/website-app-frontend",
           "description": ""
         },
         {
@@ -1935,30 +1935,30 @@
       ],
       "education": [
         {
-          "year": "",
-          "details": ""
+          "year": "2021",
+          "details": "class X-92%(ICSE Indira Gandhi Memorial Senior Secondary School)"
         },
         {
-          "year": "",
-          "details": ""
+          "year": "2023",
+          "details": "class XII-78%(WBCHSE Barrackpore Senate Public School)"
         },
         {
-          "year": "",
-          "details": ""
+          "year": "2028",
+          "details": "B.Tech in Information Technology (Maulana Abul Kalam Azad University of Technology)"
         }
       ],
       "interests": [
         {
-          "title": "",
-          "description": ""
+          "title": "Competitive Programming",
+          "description": "Participating in coding competitions and contests"
         },
         {
-          "title": "",
-          "description": ""
+          "title": "Data Science",
+          "description": "Exploring its potential for future growth"
         },
         {
-          "title": "",
-          "description": ""
+          "title": "Open Source",
+          "description": "Contributing to open-source projects and communities."
         }
       ],
       "posts": [
