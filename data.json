@@ -381,104 +381,89 @@
     },
     {
       "name": "Pappu Sarkar",
-      "typingTexts": [""],
-      "color": "base",
-      "avatar": "",
-      "banner": "",
-      "bio": "",
-      "title": "",
-      "description": "",
+      "typingTexts": ["B.Tech IT '28",
+        "Coding Enthusiast",
+        "Aspiring Developer",
+        "Python",
+        "C++"],
+      "color": "cyan",
+      "avatar": "images/Pappu Sarkar/profile-pic.png",
+      "banner": "images/Pappu Sarkar/Banner.png",
+      "bio": "BTech IT Student | Code. Create. Innovate.",
+      "title": "Beginner",
+      "description": "Passionate About Coding",
       "socialLinks": {
-        "linkedin": "",
-        "twitter": "",
-        "github": "",
-        "hashnode": "",
-        "instagram": "",
-        "facebook": ""
+        "linkedin": "https://www.linkedin.com/in/pappu-sarkar-054042331/",
+        "twitter": "https://x.com/Pappu598",
+        "github": "https://github.com/PAPPU598",
+        "hashnode": "https://hashnode.com/@Pappu598",
+        "instagram": "https://www.instagram.com/pappu__3105/",
+        "facebook": "https://www.facebook.com/pappu.sarkar.96199344/"
       },
 
-      "top-skills": [],
+      "top-skills": ["Python","C++","CSS"],
       "skills": [
         {
-          "title": "",
-          "techStack": []
+          "title": "Frontend",
+          "techStack": ["HTML","CSS","JavaScript"]
         },
         {
-          "title": "",
-          "techStack": []
+          "title": "DSA",
+          "techStack": ["C++"]
         },
         {
-          "title": "",
-          "techStack": []
+          "title": "Tools",
+          "techStack": ["Git","GitHub","VS Code"]
         },
         {
-          "title": "",
-          "techStack": []
-        },
-        {
-          "title": "",
-          "techStack": []
+          "title": "Languages",
+          "techStack": ["C","C++","Python"]
         }
+
       ],
       "projects": [
         {
-          "name": "",
-          "link": "",
-          "description": ""
-        },
-        {
-          "name": "",
-          "link": "",
-          "description": ""
+          "name": "asyncdevs-fun",
+          "link": "https://github.com/PAPPU598/asyncdevs-fun.git",
+          "description": "An assignment given by Async Devs community"
         }
+        
       ],
       "education": [
         {
-          "year": "",
-          "details": ""
+          "year": "2021",
+          "details": "Class X - 84%(WBBSE)(Kunoir K.C High School)"
         },
         {
-          "year": "",
-          "details": ""
+          "year": "2023",
+          "details": "Class XII - 72%(WBCHSE)(Kunoir K.C High School)"
         },
         {
-          "year": "",
-          "details": ""
+          "year": "2028",
+          "details": "B.Tech in Information Technology - (Maulana Abul Kalam Azad University of Technology,West Bengal)"
         }
       ],
       "interests": [
         {
-          "title": "",
-          "description": ""
+          "title": "Artificial Intelligence",
+          "description": "Exploring the impact of AI on web development."
         },
         {
-          "title": "",
-          "description": ""
+          "title": "Open Source",
+          "description": "Contributing to open-source projects and communities."
         },
         {
-          "title": "",
-          "description": ""
+          "title": "DSA",
+          "description": "Learning Data Structures and Algorithms"
         }
       ],
       "posts": [
         {
-          "title": "",
-          "description": "",
-          "image": "",
-          "url": "",
-          "type": ""
-        },
-        {
-          "title": "",
-          "description": "",
-          "image": "",
-          "type": ""
-        },
-        {
-          "title": "",
-          "description": "",
-          "image": "",
-          "type": ""
+          "title": "Attended Async Devs Session",
+          "description": "Attended a session organised by the Async Devs community on the importance of Social Media",
+          "image": "https://pbs.twimg.com/media/GdiL7yWWcAAvm0i?format=jpg&name=large",
+          "url": "https://x.com/Pappu598/status/1862393317205713202",
+          "type": "X"
         }
       ]
     },
