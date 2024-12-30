@@ -381,11 +381,13 @@
     },
     {
       "name": "Pappu Sarkar",
-      "typingTexts": ["B.Tech IT '28",
+      "typingTexts": [
+        "B.Tech IT '28",
         "Coding Enthusiast",
         "Aspiring Developer",
         "Python",
-        "C++"],
+        "C++"
+      ],
       "color": "cyan",
       "avatar": "images/Pappu Sarkar/profile-pic.png",
       "banner": "images/Pappu Sarkar/Banner.png",
@@ -401,11 +403,11 @@
         "facebook": "https://www.facebook.com/pappu.sarkar.96199344/"
       },
 
-      "top-skills": ["Python","C++","CSS"],
+      "top-skills": ["Python", "C++", "CSS"],
       "skills": [
         {
           "title": "Frontend",
-          "techStack": ["HTML","CSS","JavaScript"]
+          "techStack": ["HTML", "CSS", "JavaScript"]
         },
         {
           "title": "DSA",
@@ -413,13 +415,12 @@
         },
         {
           "title": "Tools",
-          "techStack": ["Git","GitHub","VS Code"]
+          "techStack": ["Git", "GitHub", "VS Code"]
         },
         {
           "title": "Languages",
-          "techStack": ["C","C++","Python"]
+          "techStack": ["C", "C++", "Python"]
         }
-
       ],
       "projects": [
         {
@@ -427,7 +428,6 @@
           "link": "https://github.com/PAPPU598/asyncdevs-fun.git",
           "description": "An assignment given by Async Devs community"
         }
-        
       ],
       "education": [
         {
@@ -674,7 +674,7 @@
     },
     {
       "name": "Shreyaushi Das",
-      "typingTexts": ["coding enthusiast","curious learner","dsa with java"],
+      "typingTexts": ["coding enthusiast", "curious learner", "dsa with java"],
       "color": "purple",
       "avatar": "https://avatars.githubusercontent.com/u/185457484?s=400&u=191ca0d512b95bb6a4a753e2c23ca3d5534340bc&v=4",
       "banner": "images/shreyaushidas/SHREYAUSHI DAS[1].png",
@@ -690,11 +690,11 @@
         "facebook": ""
       },
 
-      "top-skills": ["java","c++"],
+      "top-skills": ["java", "c++"],
       "skills": [
         {
           "title": "Languages",
-          "techStack": ["java","c++","python"]
+          "techStack": ["java", "c++", "python"]
         },
         {
           "title": "frontend",
@@ -1369,8 +1369,8 @@
       "name": "Ankita Sarkar",
       "typingTexts": ["Enthusiastic Learner"],
       "color": "brown",
-      "avatar": "",
-      "banner": "",
+      "avatar": "https://media.licdn.com/dms/image/v2/D5603AQFxSqR9LcAUhg/profile-displayphoto-shrink_400_400/B56ZOhqOYYGcAg-/0/1733584021505?e=1741219200&v=beta&t=TGPMhxwXmoUI_eTBAxwrrGndF03QP4Ws17BlAPGHWZI",
+      "banner": "https://media.licdn.com/dms/image/v2/D5616AQF4cJWsESwg4g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733912250241?e=1741219200&v=beta&t=eu8IxNd-o-Vdligr1qPyLD9wm78OfIENN8d8z2mjfr0",
       "bio": "Enthusiastic Learner of MAKAUT",
       "title": "Learning",
       "description": "Lets Unfold Coding",
@@ -1382,15 +1382,15 @@
         "instagram": "https://www.instagram.com/unforgettwble_ankita/"
       },
 
-      "top-skills": ["Java","python","SQL"],
+      "top-skills": ["Java", "python", "SQL"],
       "skills": [
         {
           "title": "Languages",
-          "techStack": ["Java","python","SQL"]
+          "techStack": ["Java", "python", "SQL"]
         },
         {
           "title": "Tools",
-          "techStack": ["Git","GitHub","VS Code"]
+          "techStack": ["Git", "GitHub", "VS Code"]
         }
       ],
       "projects": [
@@ -1440,8 +1440,8 @@
           "title": "Champion",
           "description": "Receiving Gold Medal at National level Competition at Delhi",
           "image": "https://media.licdn.com/dms/image/v2/D5622AQEcUp7S7pEWUw/feedshare-shrink_1280/B56ZPqwuKNGQAs-/0/1734810463984?e=1738195200&v=beta&t=n7ZO3jRnzDhsNTh5GPbh_NI87zbPaJDn1kkVYp9wPVw",
-          "url":"https://www.linkedin.com/posts/ankita-sarkar-717963340_linkedincommunity-nationaltournament-gold-activity-7276322482481979392-46Pa?utm_source=share&utm_medium=member_desktop",
-          "type": "LinkedIn"
+          "url": "https://www.linkedin.com/posts/ankita-sarkar-717963340_linkedincommunity-nationaltournament-gold-activity-7276322482481979392-46Pa?utm_source=share&utm_medium=member_desktop",
+          "type": "linkedIn"
         }
       ]
     },
