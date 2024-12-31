@@ -2071,6 +2071,68 @@
           "type": ""
         }
       ]
+    },
+    {
+      "name": "Rupayan Das",
+      "typingTexts": [
+        "B.Tech IT '28",
+        "Coding Enthusiast",
+        "Fast learner"
+      ],
+      "color": "purple",
+      "avatar": "https://avatars.githubusercontent.com/u/178875592?v=4",
+      "banner": "https://media.licdn.com/dms/image/v2/D5616AQFa65AILBylyg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734443173643?e=1741219200&v=beta&t=81LRZADPdW8CwJXE5miokiZbJnKCAIHytH8A16yQ7V8",
+      "bio": "Learning to code, one bug at a time—turning curiosity into creations!",
+      "title": "Beginner",
+      "description": "I am an Undergraduate at MAKAUT, pursuing BTech in IT with a passion for technology. On the path to graduation in 2028, eager to learn and grow in the world of coding.",
+      "socialLinks": {
+        "linkedin": "https://www.linkedin.com/in/rupayan-das-6b2406314/",
+        "github": "https://github.com/Rupayan-san",
+        "instagram": "https://www.instagram.com/rupayan439503/"
+      },
+
+      "top-skills": ["Python", "JavaScript", "SQL"],
+      "skills": [
+        {
+          "title": "Languages",
+          "techStack": ["Python","JavaScript"]
+        },
+        {
+          "title": "Tools",
+          "techStack": ["Git","Github","VS Code"]
+        },
+        {
+          "title": "DSA",
+          "techStack": ["JavaScript"]
+        }
+      ],
+      "projects": [],
+      "education": [
+        {
+          "year": "2022",
+          "details": "Class X - 95%(CBSE)(K.V.Santragachi)"
+        },
+        {
+          "year": "2024",
+          "details": "Class XII - 90%(CBSE)(K.V.Santragachi)"
+        },
+        {
+          "year": "2028",
+          "details": "B.Tech in Information Technology (Maulana Abul Kalam Azad University of Technology)"
+        }
+      ],
+      "interests": [
+        {
+          "title": "Web Development",
+          "description": "Excited to explore web development and build creative, responsive websites from the ground up."
+        },
+        {
+          "title": "Competitive Programming",
+          "description": "Passionate about competitive programming, solving challenges, and improving problem-solving skills through coding."
+        }
+      ],
+      "posts":[]
     }
   ]
 }
+
