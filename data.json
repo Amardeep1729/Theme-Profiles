@@ -2109,6 +2109,97 @@
         }
       ],
       "posts":[]
+    },
+    {
+      "name": "Amardeep Kumar",
+      "typingTexts": ["AI enthusiast","Learning python and c"],
+      "color": "sky blue",
+      "avatar": "https://avatars.githubusercontent.com/u/90820614?v=4",
+      "banner": "https://media.licdn.com/dms/image/v2/D4E16AQGn-L0hzjtitQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735813824950?e=1741219200&v=beta&t=ERxSNHkSwH7u5npsvs3xhFD-AGyEegFaf3pEYaQMyZ8",
+      "bio": "curious about AGI and ML",
+      "title": "Exploring the world of Programming",
+      "description": "I am Btech Electronics(VLSI) student on a journey of learning and growth ",
+      "socialLinks": {
+        "linkedin": "https://www.linkedin.com/in/amardeep-kumar-6721a933b/",
+        "twitter": "https://x.com/Amardeep1729",
+        "github": "https://github.com/Amardeep1729",
+        "hashnode": "https://hashnode.com/@Amardeep1729",
+        "instagram": "",
+        "facebook": ""
+      },
+
+      "top-skills": ["python","c"],
+      "skills": [
+        {
+          "title": "Languages",
+          "techStack": ["python","c"]
+        },
+        {
+          "title": "Tools",
+          "techStack": ["VS code","Github"]
+        }
+      ],
+      "projects": [
+        {
+          "name": "",
+          "link": "",
+          "description": ""
+        },
+        {
+          "name": "",
+          "link": "",
+          "description": ""
+        }
+      ],
+      "education": [
+        {
+          "year": "2021",
+          "details": "Class X - 90%(CBSE)(MDB DAV public school)"
+        },
+        {
+          "year": "2023",
+          "details": "Class XII - 83%(CBSE)(MDB DAV public school)"
+        },
+        {
+          "year": "2028",
+          "details": "Btech in Electronics (VLSI)(Maulana Abul Kalam Azad University of Technology)"
+        }
+      ],
+      "interests": [
+        {
+          "title": "AGI",
+          "description": "curious about how its development can help in humanity's most pressing challenges"
+        },
+        {
+          "title": "ML",
+          "description": "just want to be a part to revolutionize the way we live and work"
+        },
+        {
+          "title": "Open Source",
+          "description": "Contributing to open source projects"
+        }
+      ],
+      "posts": [
+        {
+          "title": "",
+          "description": "",
+          "image": "",
+          "url": "",
+          "type": ""
+        },
+        {
+          "title": "",
+          "description": "",
+          "image": "",
+          "type": ""
+        },
+        {
+          "title": "",
+          "description": "",
+          "image": "",
+          "type": ""
+        }
+      ]
     }
   ]
 }
