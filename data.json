@@ -1057,51 +1057,65 @@
       ]
     },
     {
-      "name": "Debangshu",
-      "typingTexts": [""],
-      "color": "base",
-      "avatar": "",
-      "banner": "",
-      "bio": "",
-      "title": "",
-      "description": "",
+      "name": "Debangshu Das",
+      "typingTexts": [
+        "B.Tech CSE '28",
+        "Full-Stack Web Dev",
+        "Tailwind CSS",
+        "React"
+      ],
+      "color": "blue",
+      "avatar": "https://avatars.githubusercontent.com/u/146982673?v=4",
+      "banner": "https://media.licdn.com/dms/image/v2/D4E16AQEcwo31OOwNmQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735820324753?e=1741219200&v=beta&t=q5XVxJO-1U3-PLoJdNyzNYPgdrLofzQ8KugtdL6m6qs",
+      "bio": "From concept to code",
+      "title": "Aspiring Developer",
+      "description": "Learning to build creative and responsive websites from the ground up and exploring different technologies.",
       "socialLinks": {
-        "linkedin": "",
-        "twitter": "",
-        "github": "",
+        "linkedin": "https://www.linkedin.com/in/debangshu-das-626097317/",
+        "twitter": "https://x.com/debangshu919",
+        "github": "https://github.com/debangshu919",
         "hashnode": "",
         "instagram": "",
         "facebook": ""
       },
 
-      "top-skills": [],
+      "top-skills": [
+        "Python",
+        "MySQL",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Tailwind CSS"
+      ],
       "skills": [
         {
-          "title": "",
-          "techStack": []
+          "title": "Frontend",
+          "techStack": ["HTML", "CSS", "bootstrap", "React", "Tailwind CSS"]
         },
         {
-          "title": "",
-          "techStack": []
+          "title": "Backend",
+          "techStack": ["Node.js"]
         },
         {
-          "title": "",
-          "techStack": []
+          "title": "Databases",
+          "techStack": ["MySQL"]
         },
         {
-          "title": "",
-          "techStack": []
+          "title": "Languages",
+          "techStack": ["Python", "JavaScript", "TypeScript"]
         },
         {
-          "title": "",
-          "techStack": []
+          "title": "Tools",
+          "techStack": ["Git", "GitHub", "VS Code", "Postman"]
         }
       ],
       "projects": [
         {
-          "name": "",
-          "link": "",
-          "description": ""
+          "name": "Login/Signup page using TailwindCSS",
+          "link": "https://github.com/itz-me-debangshu/login-signup-page-using-TailwindCSS",
+          "description": "A simple and responsive Login and Signup page designed using Tailwind CSS. The pages are styled to provide a modern and user-friendly interface."
         },
         {
           "name": "",
@@ -1111,39 +1125,39 @@
       ],
       "education": [
         {
-          "year": "",
-          "details": ""
+          "year": "2022",
+          "details": "Class X - 93%(CBSE)(Durgapur Public School, Durgapur)"
         },
         {
-          "year": "",
-          "details": ""
+          "year": "2024",
+          "details": "class XII-87%(CBSE)(Hem Sheela Model School, Durgapur)"
         },
         {
-          "year": "",
-          "details": ""
+          "year": "2028",
+          "details": "B. Tech in Computer Science and Engineering (Maulana Abul Kalam Azad University of Technology)"
         }
       ],
       "interests": [
         {
-          "title": "",
-          "description": ""
+          "title": "Open Source",
+          "description": "Contributing to open-source projects and communities and participaing in GSoC"
         },
         {
-          "title": "",
-          "description": ""
+          "title": "Web Development",
+          "description": "Excited to explore web development and build creative, responsive websites from the ground up."
         },
         {
-          "title": "",
-          "description": ""
+          "title": "Gen AI",
+          "description": "Implementing Gen AI features in web development"
         }
       ],
       "posts": [
         {
-          "title": "",
-          "description": "",
-          "image": "",
-          "url": "",
-          "type": ""
+          "title": "Participation in Quick Start to your Programming Journey organised by HACKAUT | MAKAUT, WB",
+          "description": "I’m thrilled to share that I secured 2nd place in the quiz competition!",
+          "image": "https://media.licdn.com/dms/image/v2/D4E22AQEsT72YNZ_oXQ/feedshare-shrink_2048_1536/B4EZPa1lqVGcAo-/0/1734543303080?e=1738800000&v=beta&t=RTdMawN6o2_4C-O6yzRTcF3c2edVsHuzV5MRBWwyBUM",
+          "url": "https://www.linkedin.com/posts/debangshu-das-626097317_learningjourney-hackaut-unstop-activity-7275201946330755072-lBQv?utm_source=share&utm_medium=member_desktop",
+          "type": "LinkedIn, Unstop"
         },
         {
           "title": "",
@@ -1860,23 +1874,30 @@
         "facebook": ""
       },
 
-      "top-skills": ["JavaScript","Java","React"],
+      "top-skills": ["JavaScript", "Java", "React"],
       "skills": [
         {
           "title": "Languages",
-          "techStack": ["JavaScript","Java","C++"]
+          "techStack": ["JavaScript", "Java", "C++"]
         },
         {
           "title": "Frontend",
-          "techStack": ["HTML","CSS","JavaScript","React","JQuery"]
+          "techStack": ["HTML", "CSS", "JavaScript", "React", "JQuery"]
         },
         {
           "title": "DSA",
-          "techStack": ["Java","C++"]
+          "techStack": ["Java", "C++"]
         },
         {
           "title": "Tools",
-          "techStack": ["VS Code","GitHub","Git","Vite","Anaconda","Postman"]
+          "techStack": [
+            "VS Code",
+            "GitHub",
+            "Git",
+            "Vite",
+            "Anaconda",
+            "Postman"
+          ]
         },
         {
           "title": "",
@@ -2051,11 +2072,7 @@
     },
     {
       "name": "Rupayan Das",
-      "typingTexts": [
-        "B.Tech IT '28",
-        "Coding Enthusiast",
-        "Fast learner"
-      ],
+      "typingTexts": ["B.Tech IT '28", "Coding Enthusiast", "Fast learner"],
       "color": "purple",
       "avatar": "https://avatars.githubusercontent.com/u/178875592?v=4",
       "banner": "https://media.licdn.com/dms/image/v2/D5616AQFa65AILBylyg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734443173643?e=1741219200&v=beta&t=81LRZADPdW8CwJXE5miokiZbJnKCAIHytH8A16yQ7V8",
@@ -2072,11 +2089,11 @@
       "skills": [
         {
           "title": "Languages",
-          "techStack": ["Python","JavaScript"]
+          "techStack": ["Python", "JavaScript"]
         },
         {
           "title": "Tools",
-          "techStack": ["Git","Github","VS Code"]
+          "techStack": ["Git", "Github", "VS Code"]
         },
         {
           "title": "DSA",
@@ -2108,8 +2125,7 @@
           "description": "Passionate about competitive programming, solving challenges, and improving problem-solving skills through coding."
         }
       ],
-      "posts":[]
+      "posts": []
     }
   ]
 }
-
