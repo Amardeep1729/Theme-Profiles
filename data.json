@@ -1860,23 +1860,30 @@
         "facebook": ""
       },
 
-      "top-skills": ["JavaScript","Java","React"],
+      "top-skills": ["JavaScript", "Java", "React"],
       "skills": [
         {
           "title": "Languages",
-          "techStack": ["JavaScript","Java","C++"]
+          "techStack": ["JavaScript", "Java", "C++"]
         },
         {
           "title": "Frontend",
-          "techStack": ["HTML","CSS","JavaScript","React","JQuery"]
+          "techStack": ["HTML", "CSS", "JavaScript", "React", "JQuery"]
         },
         {
           "title": "DSA",
-          "techStack": ["Java","C++"]
+          "techStack": ["Java", "C++"]
         },
         {
           "title": "Tools",
-          "techStack": ["VS Code","GitHub","Git","Vite","Anaconda","Postman"]
+          "techStack": [
+            "VS Code",
+            "GitHub",
+            "Git",
+            "Vite",
+            "Anaconda",
+            "Postman"
+          ]
         },
         {
           "title": "",
@@ -1945,7 +1952,6 @@
         }
       ]
     },
-
     {
       "name": "Bikram Samanta",
       "typingTexts": [""],
@@ -2051,11 +2057,7 @@
     },
     {
       "name": "Rupayan Das",
-      "typingTexts": [
-        "B.Tech IT '28",
-        "Coding Enthusiast",
-        "Fast learner"
-      ],
+      "typingTexts": ["B.Tech IT '28", "Coding Enthusiast", "Fast learner"],
       "color": "purple",
       "avatar": "https://avatars.githubusercontent.com/u/178875592?v=4",
       "banner": "https://media.licdn.com/dms/image/v2/D5616AQFa65AILBylyg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734443173643?e=1741219200&v=beta&t=81LRZADPdW8CwJXE5miokiZbJnKCAIHytH8A16yQ7V8",
@@ -2072,11 +2074,11 @@
       "skills": [
         {
           "title": "Languages",
-          "techStack": ["Python","JavaScript"]
+          "techStack": ["Python", "JavaScript"]
         },
         {
           "title": "Tools",
-          "techStack": ["Git","Github","VS Code"]
+          "techStack": ["Git", "Github", "VS Code"]
         },
         {
           "title": "DSA",
@@ -2108,11 +2110,11 @@
           "description": "Passionate about competitive programming, solving challenges, and improving problem-solving skills through coding."
         }
       ],
-      "posts":[]
+      "posts": []
     },
     {
       "name": "Amardeep Kumar",
-      "typingTexts": ["AI enthusiast","Learning python and c"],
+      "typingTexts": ["AI enthusiast", "Learning python and c"],
       "color": "sky blue",
       "avatar": "https://avatars.githubusercontent.com/u/90820614?v=4",
       "banner": "https://media.licdn.com/dms/image/v2/D4E16AQGn-L0hzjtitQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735813824950?e=1741219200&v=beta&t=ERxSNHkSwH7u5npsvs3xhFD-AGyEegFaf3pEYaQMyZ8",
@@ -2128,15 +2130,15 @@
         "facebook": ""
       },
 
-      "top-skills": ["python","c"],
+      "top-skills": ["python", "c"],
       "skills": [
         {
           "title": "Languages",
-          "techStack": ["python","c"]
+          "techStack": ["python", "c"]
         },
         {
           "title": "Tools",
-          "techStack": ["VS code","Github"]
+          "techStack": ["VS code", "Github"]
         }
       ],
       "projects": [
@@ -2203,4 +2205,3 @@
     }
   ]
 }
-
