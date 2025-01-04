@@ -2202,6 +2202,105 @@
           "type": ""
         }
       ]
+    },
+    {
+      "name": "Abhishek Choubey",
+      "typingTexts": ["Learning Web Development", "Java and DSA"],
+      "color": "blue",
+      "avatar": "https://avatars.githubusercontent.com/u/185954409?v=4",
+      "banner": "https://media.licdn.com/dms/image/v2/D4E16AQFmH6JC1WGBCg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735310560517?e=1741219200&v=beta&t=98FPETbf2YpAp4YrrFcBpvcCBALgKGx5ZIgiM23FJg0",
+      "bio": "Curious about web development and interested to make user friendly projects ",
+      "title": "Curious Developer",
+      "description": "I am Btech Electronics(VLSI) student on a journey of learning and growth",
+      "socialLinks": {
+        "linkedin": "https://www.linkedin.com/in/abhishek-choubey-46635833b/",
+        "twitter": "https://x.com/AbhishekCh16684",
+        "github": "https://github.com/Abhishek-1710",
+        "hashnode": "https://hashnode.com/@Abhishek-1710",
+        "instagram": "https://www.instagram.com/itz_abhishek.17/",
+        "facebook": ""
+      },
+
+      "top-skills": ["Java", "HTML CSS JS"],
+      "skills": [
+        {
+          "title": "Learning",
+          "techStack": ["HTML CSS JS"]
+        },
+        {
+          "title": "Languages",
+          "techStack": ["Java"]
+        },
+        {
+          "title": "Tools",
+          "techStack": ["VS code", "GitHub"]
+        }
+        
+      ],
+      "projects": [
+        {
+          "name": "",
+          "link": "",
+          "description": ""
+        },
+        {
+          "name": "",
+          "link": "",
+          "description": ""
+        }
+      ],
+      "education": [
+        {
+          "year": "2021",
+          "details": "Class X - 92%(ICSE)(Xavier's English School)"
+        },
+        {
+          "year": "2023",
+          "details": "Class XII - 76%(CBSE)(Kunwar Convent School)"
+        },
+        {
+          "year": "2028",
+          "details": "Btech in Electronics (VLSI)(Maulana Abul Kalam Azad University of Technology)"
+        }
+      ],
+      "interests": [
+        {
+          "title": "AI and ML",
+          "description": "Interested in making AI tools"
+        },
+        {
+          "title": "web development",
+          "description": "Interested to make AI integrated websites"
+        },
+        {
+          "title": "Open Source",
+          "description": "Contributing to open source projects"
+        }
+      ],
+      "posts": [
+        {
+          "title": "",
+          "description": "",
+          "image": "",
+          "url": "",
+          "type": ""
+        },
+        {
+          "title": "",
+          "description": "",
+          "image": "",
+          "type": ""
+        },
+        {
+          "title": "",
+          "description": "",
+          "image": "",
+          "type": ""
+        }
+      ]  
     }
+        
+      
+    
   ]
 }
