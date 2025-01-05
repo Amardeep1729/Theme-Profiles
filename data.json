@@ -1057,51 +1057,65 @@
       ]
     },
     {
-      "name": "Debangshu",
-      "typingTexts": [""],
-      "color": "base",
-      "avatar": "",
-      "banner": "",
-      "bio": "",
-      "title": "",
-      "description": "",
+      "name": "Debangshu Das",
+      "typingTexts": [
+        "B.Tech CSE '28",
+        "Full-Stack Web Dev",
+        "Tailwind CSS",
+        "React"
+      ],
+      "color": "blue",
+      "avatar": "https://avatars.githubusercontent.com/u/146982673?v=4",
+      "banner": "https://media.licdn.com/dms/image/v2/D4E16AQEcwo31OOwNmQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735820324753?e=1741219200&v=beta&t=q5XVxJO-1U3-PLoJdNyzNYPgdrLofzQ8KugtdL6m6qs",
+      "bio": "From concept to code",
+      "title": "Aspiring Developer",
+      "description": "Learning to build creative and responsive websites from the ground up and exploring different technologies.",
       "socialLinks": {
-        "linkedin": "",
-        "twitter": "",
-        "github": "",
+        "linkedin": "https://www.linkedin.com/in/debangshu-das-626097317/",
+        "twitter": "https://x.com/debangshu919",
+        "github": "https://github.com/debangshu919",
         "hashnode": "",
         "instagram": "",
         "facebook": ""
       },
 
-      "top-skills": [],
+      "top-skills": [
+        "Python",
+        "MySQL",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Tailwind CSS"
+      ],
       "skills": [
         {
-          "title": "",
-          "techStack": []
+          "title": "Frontend",
+          "techStack": ["HTML", "CSS", "bootstrap", "React", "Tailwind CSS"]
         },
         {
-          "title": "",
-          "techStack": []
+          "title": "Backend",
+          "techStack": ["Node.js"]
         },
         {
-          "title": "",
-          "techStack": []
+          "title": "Databases",
+          "techStack": ["MySQL"]
         },
         {
-          "title": "",
-          "techStack": []
+          "title": "Languages",
+          "techStack": ["Python", "JavaScript", "TypeScript"]
         },
         {
-          "title": "",
-          "techStack": []
+          "title": "Tools",
+          "techStack": ["Git", "GitHub", "VS Code", "Postman"]
         }
       ],
       "projects": [
         {
-          "name": "",
-          "link": "",
-          "description": ""
+          "name": "Login/Signup page using TailwindCSS",
+          "link": "https://github.com/itz-me-debangshu/login-signup-page-using-TailwindCSS",
+          "description": "A simple and responsive Login and Signup page designed using Tailwind CSS. The pages are styled to provide a modern and user-friendly interface."
         },
         {
           "name": "",
@@ -1111,39 +1125,39 @@
       ],
       "education": [
         {
-          "year": "",
-          "details": ""
+          "year": "2022",
+          "details": "Class X - 93%(CBSE)(Durgapur Public School, Durgapur)"
         },
         {
-          "year": "",
-          "details": ""
+          "year": "2024",
+          "details": "class XII-87%(CBSE)(Hem Sheela Model School, Durgapur)"
         },
         {
-          "year": "",
-          "details": ""
+          "year": "2028",
+          "details": "B. Tech in Computer Science and Engineering (Maulana Abul Kalam Azad University of Technology)"
         }
       ],
       "interests": [
         {
-          "title": "",
-          "description": ""
+          "title": "Open Source",
+          "description": "Contributing to open-source projects and communities and participaing in GSoC"
         },
         {
-          "title": "",
-          "description": ""
+          "title": "Web Development",
+          "description": "Excited to explore web development and build creative, responsive websites from the ground up."
         },
         {
-          "title": "",
-          "description": ""
+          "title": "Gen AI",
+          "description": "Implementing Gen AI features in web development"
         }
       ],
       "posts": [
         {
-          "title": "",
-          "description": "",
-          "image": "",
-          "url": "",
-          "type": ""
+          "title": "Participation in Quick Start to your Programming Journey organised by HACKAUT | MAKAUT, WB",
+          "description": "I’m thrilled to share that I secured 2nd place in the quiz competition!",
+          "image": "https://media.licdn.com/dms/image/v2/D4E22AQEsT72YNZ_oXQ/feedshare-shrink_2048_1536/B4EZPa1lqVGcAo-/0/1734543303080?e=1738800000&v=beta&t=RTdMawN6o2_4C-O6yzRTcF3c2edVsHuzV5MRBWwyBUM",
+          "url": "https://www.linkedin.com/posts/debangshu-das-626097317_learningjourney-hackaut-unstop-activity-7275201946330755072-lBQv?utm_source=share&utm_medium=member_desktop",
+          "type": "LinkedIn, Unstop"
         },
         {
           "title": "",
@@ -2111,193 +2125,6 @@
         }
       ],
       "posts": []
-    },
-    {
-      "name": "Amardeep Kumar",
-      "typingTexts": ["AI enthusiast", "Learning python and c"],
-      "color": "sky blue",
-      "avatar": "https://avatars.githubusercontent.com/u/90820614?v=4",
-      "banner": "https://media.licdn.com/dms/image/v2/D4E16AQGn-L0hzjtitQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735813824950?e=1741219200&v=beta&t=ERxSNHkSwH7u5npsvs3xhFD-AGyEegFaf3pEYaQMyZ8",
-      "bio": "curious about AGI and ML",
-      "title": "Exploring the world of Programming",
-      "description": "I am Btech Electronics(VLSI) student on a journey of learning and growth ",
-      "socialLinks": {
-        "linkedin": "https://www.linkedin.com/in/amardeep-kumar-6721a933b/",
-        "twitter": "https://x.com/Amardeep1729",
-        "github": "https://github.com/Amardeep1729",
-        "hashnode": "https://hashnode.com/@Amardeep1729",
-        "instagram": "",
-        "facebook": ""
-      },
-
-      "top-skills": ["python", "c"],
-      "skills": [
-        {
-          "title": "Languages",
-          "techStack": ["python", "c"]
-        },
-        {
-          "title": "Tools",
-          "techStack": ["VS code", "Github"]
-        }
-      ],
-      "projects": [
-        {
-          "name": "",
-          "link": "",
-          "description": ""
-        },
-        {
-          "name": "",
-          "link": "",
-          "description": ""
-        }
-      ],
-      "education": [
-        {
-          "year": "2021",
-          "details": "Class X - 90%(CBSE)(MDB DAV public school)"
-        },
-        {
-          "year": "2023",
-          "details": "Class XII - 83%(CBSE)(MDB DAV public school)"
-        },
-        {
-          "year": "2028",
-          "details": "Btech in Electronics (VLSI)(Maulana Abul Kalam Azad University of Technology)"
-        }
-      ],
-      "interests": [
-        {
-          "title": "AGI",
-          "description": "curious about how its development can help in humanity's most pressing challenges"
-        },
-        {
-          "title": "ML",
-          "description": "just want to be a part to revolutionize the way we live and work"
-        },
-        {
-          "title": "Open Source",
-          "description": "Contributing to open source projects"
-        }
-      ],
-      "posts": [
-        {
-          "title": "",
-          "description": "",
-          "image": "",
-          "url": "",
-          "type": ""
-        },
-        {
-          "title": "",
-          "description": "",
-          "image": "",
-          "type": ""
-        },
-        {
-          "title": "",
-          "description": "",
-          "image": "",
-          "type": ""
-        }
-      ]
-    },
-    {
-      "name": "Abhishek Choubey",
-      "typingTexts": ["Learning Web Development", "Java and DSA"],
-      "color": "blue",
-      "avatar": "https://avatars.githubusercontent.com/u/185954409?v=4",
-      "banner": "https://media.licdn.com/dms/image/v2/D4E16AQFmH6JC1WGBCg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735310560517?e=1741219200&v=beta&t=98FPETbf2YpAp4YrrFcBpvcCBALgKGx5ZIgiM23FJg0",
-      "bio": "Curious about web development and interested to make user friendly projects ",
-      "title": "Curious Developer",
-      "description": "I am Btech Electronics(VLSI) student on a journey of learning and growth",
-      "socialLinks": {
-        "linkedin": "https://www.linkedin.com/in/abhishek-choubey-46635833b/",
-        "twitter": "https://x.com/AbhishekCh16684",
-        "github": "https://github.com/Abhishek-1710",
-        "hashnode": "https://hashnode.com/@Abhishek-1710",
-        "instagram": "https://www.instagram.com/itz_abhishek.17/",
-        "facebook": ""
-      },
-
-      "top-skills": ["Java", "HTML CSS JS"],
-      "skills": [
-        {
-          "title": "Learning",
-          "techStack": ["HTML CSS JS"]
-        },
-        {
-          "title": "Languages",
-          "techStack": ["Java"]
-        },
-        {
-          "title": "Tools",
-          "techStack": ["VS code", "GitHub"]
-        }
-        
-      ],
-      "projects": [
-        {
-          "name": "",
-          "link": "",
-          "description": ""
-        },
-        {
-          "name": "",
-          "link": "",
-          "description": ""
-        }
-      ],
-      "education": [
-        {
-          "year": "2021",
-          "details": "Class X - 92%(ICSE)(Xavier's English School)"
-        },
-        {
-          "year": "2023",
-          "details": "Class XII - 76%(CBSE)(Kunwar Convent School)"
-        },
-        {
-          "year": "2028",
-          "details": "Btech in Electronics (VLSI)(Maulana Abul Kalam Azad University of Technology)"
-        }
-      ],
-      "interests": [
-        {
-          "title": "AI and ML",
-          "description": "Interested in making AI tools"
-        },
-        {
-          "title": "web development",
-          "description": "Interested to make AI integrated websites"
-        },
-        {
-          "title": "Open Source",
-          "description": "Contributing to open source projects"
-        }
-      ],
-      "posts": [
-        {
-          "title": "",
-          "description": "",
-          "image": "",
-          "url": "",
-          "type": ""
-        },
-        {
-          "title": "",
-          "description": "",
-          "image": "",
-          "type": ""
-        },
-        {
-          "title": "",
-          "description": "",
-          "image": "",
-          "type": ""
-        }
-      ]  
     }
         
       
