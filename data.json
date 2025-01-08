@@ -2398,6 +2398,86 @@
           "type": "Unstop"
         }
       ]
+    },
+    {
+      "name": "Tanay saha",
+      "typingTexts": [
+        "B.Tech CSE '28",
+        "Coding Enthusiast",
+        "c++",
+        "Css",
+        "HTML","Learning Web Development"
+      ],
+      "color": "pink",
+      "avatar": "images/tanay saha/profilepic.jpg",
+      "banner": "images/tanay saha/banner.jpg",
+      "bio": "Passionate about problem solving",
+      "title": "Aspiring Software Developer",
+      "description": "Passionate About Coding and exploring different technologies",
+      "socialLinks": {
+        "linkedin": "https://www.linkedin.com/in/tanay-saha-11485532b/",
+        "twitter": "https://x.com/tanaysaha90",
+        "github": "https://github.com/Tanaygit646",
+        "instagram":"https://www.instagram.com/tanaysaha90/"
+      },
+
+      "top-skills": ["Html", "CSS", "JavaScript"],
+      "skills": [
+        {
+          "title": "Frontend",
+          "techStack": ["HTML", "CSS", "JavaScript"]
+        },
+        {
+          "title": "Databases",
+          "techStack": ["Mysql"]
+        },
+        {
+          "title": "Languages",
+          "techStack": ["c++", "C","python"]
+        },
+        {
+          "title": "Tools",
+          "techStack": ["Git", "GitHub", "VS Code"]
+        }
+      ],
+      "projects": [],
+      "education": [
+        {
+          "year": "2022",
+          "details": "Class X - 88%(WBBSE)(Islmapur high school,WB)"
+        },
+        {
+          "year": "2024",
+          "details": "Class XII - 87%(WBCHSE)(Islmapur high school,WB)"
+        },
+        {
+          "year": "2028",
+          "details": "B. Tech in Computer Science and Engineering (Maulana Abul Kalam Azad University of Technology)"
+        }
+      ],
+      "interests": [
+        {
+          "title": "Artificial Intelligence",
+          "description": "Exploring the impact of AI on coding"
+        },
+        {
+          "title": "DSA",
+          "description": "Learning Data Structures and Algorithms in c++"
+        },
+        {
+          "title": "Open Source",
+          "description": "Contributing to open-source projects and communities and participaing in GSoC"
+        }
+      ],
+      "posts": [
+        {
+          "title": "chatbot",
+          "description": "I created a basic structure and logic for a chatbot using HTML, CSS, and JavaScript. ",
+          "image": "https://media.licdn.com/dms/image/v2/D4E22AQGhHwFSm6K5Jg/feedshare-shrink_2048_1536/B4EZQ2muiZGcAo-/0/1736082909973?e=1739404800&v=beta&t=7VT4uq5nvUfa9P2bIx_Kn-XNidCIGhj1kIF9_3mVXP4",
+          "url": "https://www.linkedin.com/feed/update/urn:li:activity:7281659506797764608/",
+          "type": "linkedIn"
+        }
+      ]
     }
   ]
 }
