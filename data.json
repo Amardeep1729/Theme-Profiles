@@ -2311,6 +2311,93 @@
           "type": ""
         }
       ]
+    },
+    {
+      "name": "Abhra Roy",
+      "typingTexts": [
+        "B.Tech CSE '28",
+        "Coding Enthusiast",
+        "JAVA",
+        "C",
+        "HTML","Learning Web Development"
+      ],
+      "color": "sky blue",
+      "avatar": "https://avatars.githubusercontent.com/u/181045335?v=4",
+      "banner": "https://pbs.twimg.com/profile_banners/1749285383765184512/1732817570/1500x500",
+      "bio": "Passionate about problem solving",
+      "title": "Aspiring Software Developer",
+      "description": "Passionate About Coding and exploring different technologies",
+      "socialLinks": {
+        "linkedin": "https://www.linkedin.com/in/abhra-roy-924b53326/",
+        "twitter": "https://x.com/AbhraRoy_",
+        "github": "https://github.com/Abhra5002",
+        "instagram":"https://www.instagram.com/abhra_roy_05/"
+      },
+
+      "top-skills": ["Html", "CSS", "JavaScript"],
+      "skills": [
+        {
+          "title": "Frontend",
+          "techStack": ["HTML", "CSS", "JavaScript"]
+        },
+        {
+          "title": "Databases",
+          "techStack": [""]
+        },
+        {
+          "title": "Languages",
+          "techStack": ["JAVA", "C"]
+        },
+        {
+          "title": "Tools",
+          "techStack": ["Git", "GitHub", "VS Code"]
+        }
+      ],
+      "projects": [],
+      "education": [
+        {
+          "year": "2021",
+          "details": "Class X - 95%(WBBSE)(Pranavananda Centenary Shikshayatan,WB)"
+        },
+        {
+          "year": "2023",
+          "details": "Class XII - 87%(WBCHSE)(Pranavananda Centenary Shikshayatan,WB)"
+        },
+        {
+          "year": "2028",
+          "details": "B. Tech in Computer Science and Engineering (Maulana Abul Kalam Azad University of Technology)"
+        }
+      ],
+      "interests": [
+        {
+          "title": "Artificial Intelligence",
+          "description": "Exploring the impact of AI on coding"
+        },
+        {
+          "title": "DSA",
+          "description": "Learning Data Structures and Algorithms in Java"
+        },
+        {
+          "title": "Open Source",
+          "description": "Contributing to open-source projects and communities and participaing in GSoC"
+        }
+      ],
+      "posts": [
+        {
+          "title": "Attended Async Devs Session",
+          "description": "Attended a session organised by the Async Devs community on the importance of Social Media",
+          "image": "https://pbs.twimg.com/media/GduZT9_XQAEMy2o?format=jpg&name=small",
+          "url": "https://x.com/AbhraRoy_/status/1863251442070422013/photo/2",
+          "type": "X"
+        },
+        {
+          "title": "Participation in Quick Start to your Programming Journey organised by HACKAUT | MAKAUT, WB",
+          "description": "Received a certificate of participation",
+          "image": "https://d8it4huxumps7.cloudfront.net/lambda-pdfs/certificate-images/bbd8e91f-4d74-46a6-a465-2ea6bb6b344c.jpg",
+          "url": "https://unstop.com/certificate-preview/bbd8e91f-4d74-46a6-a465-2ea6bb6b344c",
+          "type": "Unstop"
+        }
+      ]
     }
   ]
 }
