@@ -1278,35 +1278,37 @@
     },
     {
       "name": "Sonam Kumari",
-      "typingTexts": [""],
-      "color": "base",
-      "avatar": "",
-      "banner": "",
+      "typingTexts": ["B.Tech IT '28",
+        "Coding Enthusiast",
+        "C",
+        "C++",
+        "First Year Student"],
+      "color": "green",
+      "avatar": "https://avatars.githubusercontent.com/u/185925326?v=4&size=64",
+      "banner": "https://media.licdn.com/dms/image/v2/D4E16AQFBAvbIUy_miA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729243995425?e=1741824000&v=beta&t=Rka0oU9N0OCEcJRYybyVtqPz2cO1LcONFKmhyFVecuw",
       "bio": "",
       "title": "",
       "description": "",
       "socialLinks": {
-        "linkedin": "",
-        "twitter": "",
-        "github": "",
-        "hashnode": "",
-        "instagram": "",
-        "facebook": ""
+        "linkedin": "https://www.linkedin.com/in/sonam-kumari-2a468532b",
+        "twitter": "https://x.com/SonamKumari0806",
+        "github": "https://github.com/SONAM0806",
+        "hashnode": "https://hashnode.com/@Sonam0806"
       },
 
-      "top-skills": [],
+      "top-skills": ["C","C++","HTML","CSS"],
       "skills": [
         {
-          "title": "",
-          "techStack": []
+          "title": "Programming Language",
+          "techStack": ["C","C++"]
         },
         {
-          "title": "",
-          "techStack": []
+          "title": "Web Development",
+          "techStack": ["HTML","CSS"]
         },
         {
-          "title": "",
-          "techStack": []
+          "title": "Tools",
+          "techStack": ["Git","GitHub","VS Code"]
         },
         {
           "title": "",
@@ -1331,51 +1333,52 @@
       ],
       "education": [
         {
-          "year": "",
-          "details": ""
+          "year": "2028",
+          "details": "B.Tech in Information Technology - (Maulana Abul Kalam Azad University of Technology,West Bengal)"
         },
         {
-          "year": "",
-          "details": ""
+          "year": "2023",
+          "details": "class XII-83%(CBSE)(T.M Vidya Mandir, Nalanda)"
         },
         {
-          "year": "",
-          "details": ""
+          "year": "2021",
+          "details": "class X-92.6%(CBSE)(T.M Vidya Mandir, Nalanda)"
         }
       ],
       "interests": [
         {
-          "title": "",
+          "title": "Coding",
           "description": ""
         },
         {
-          "title": "",
+          "title": "Web Development",
           "description": ""
         },
         {
-          "title": "",
+          "title": "Open Source",
           "description": ""
         }
       ],
       "posts": [
         {
-          "title": "",
+          "title": "Completed GenAI Campaign",
           "description": "",
-          "image": "",
-          "url": "",
-          "type": ""
+          "image": "https://media.licdn.com/dms/image/v2/D4E22AQFPulUDVW6x4Q/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1731658323767?e=1739404800&v=beta&t=O-PK1A4ARJHIyq1SetgrG_J6o6Yg6xPku1L9J_Osgm8",
+          "url": "https://www.linkedin.com/posts/sonam-kumari-2a468532b_linkedinmembers-genaiabrcampaign-googlecourse-activity-7263101440376594433-4C-p?utm_source=share&utm_medium=member_desktop",
+          "type": "LinkedIn"
         },
         {
-          "title": "",
+          "title": "Attended Async Devs Session",
           "description": "",
-          "image": "",
-          "type": ""
+          "url":"https://www.linkedin.com/posts/sonam-kumari-2a468532b_linkedincommunity-git-git-activity-7271224267260715008-xEQF?utm_source=share&utm_medium=member_desktop",
+          "image": "https://media.licdn.com/dms/image/v2/D4E22AQFn3P1taKJJlQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1733594956530?e=1739404800&v=beta&t=ZcQLR3vTX14atiTwVpoY3PEcmLaoTJ8hLpW5qY1-Kjw",
+          "type": "LinkedIn"
         },
         {
-          "title": "",
+          "title": "Attended workshop",
           "description": "",
-          "image": "",
-          "type": ""
+          "image": "https://media.licdn.com/dms/image/v2/D4E22AQF4FHeBj7E_uQ/feedshare-shrink_800/feedshare-shrink_800/0/1734016325901?e=1739404800&v=beta&t=gX7ph1FYZH2Aa3MlN8hasdhhqEM982ZB7KZeomKgYOk",
+          "type": "linkedIn"
         }
       ]
     },
