@@ -955,106 +955,68 @@
     },
     {
       "name": "Rahul Ghosh",
-      "typingTexts": [""],
-      "color": "base",
-      "avatar": "",
-      "banner": "",
-      "bio": "",
-      "title": "",
-      "description": "",
+      "typingTexts": [
+        "B.Tech CSE '28",
+        "Coding Enthusiast",
+        "C",
+        "C++",
+        "HTML",
+        "Learner"
+      ],
+      "color": "sky blue",
+      "avatar": "https://avatars.githubusercontent.com/u/185926321?s=400&u=d40dfd81b516eda1193b55a03cddc30b29f04c0d&v=4",
+      "banner": "https://camo.githubusercontent.com/041ee4feed7aa81c1ffd3dd3037aad491a1c94b87d161b8680624ab615703af6/68747470733a2f2f7062732e7477696d672e636f6d2f70726f66696c655f62616e6e6572732f313836323133333634353931393832353932302f313733333539363130302f3135303078353030",
+      "bio": "Passionate about problem solving",
+      "title": "Aspiring Software Developer",
+      "description": "Passionate About Coding and exploring different technologies",
       "socialLinks": {
-        "linkedin": "",
-        "twitter": "",
-        "github": "",
-        "hashnode": "",
-        "instagram": "",
-        "facebook": ""
-      },
+        "linkedin": "https://www.linkedin.com/in/rahul-ghosh-8a762432a/",
+        "twitter": "https://x.com/RahulGh0sh08",
+        "github": "https://github.com/Rahulghosh08",
+        "instagram": "https://www.instagram.com/rahul_ghosh_08/"
+         },
 
-      "top-skills": [],
+      "top-skills": ["C","C++","HTML"],
       "skills": [
         {
-          "title": "",
-          "techStack": []
+          "title": "Languages",
+          "techStack": ["C","C++"]
         },
         {
-          "title": "",
-          "techStack": []
-        },
-        {
-          "title": "",
-          "techStack": []
-        },
-        {
-          "title": "",
-          "techStack": []
-        },
-        {
-          "title": "",
-          "techStack": []
+          "title": "Tools",
+          "techStack": ["Git","GitHub","VS Code"]
         }
       ],
-      "projects": [
-        {
-          "name": "",
-          "link": "",
-          "description": ""
-        },
-        {
-          "name": "",
-          "link": "",
-          "description": ""
-        }
-      ],
+      "projects": [],
       "education": [
         {
-          "year": "",
-          "details": ""
+          "year": "2021",
+          "details": "Class X - 89%(WBBSE)(Vivekananda Siksha Niketan High School,Bankura)"
         },
         {
-          "year": "",
-          "details": ""
+          "year": "2023",
+          "details": "Class X - 81%(WBCHSE)(Bankura Municipal High School,WB)"
         },
         {
-          "year": "",
-          "details": ""
+          "year": "2028",
+          "details": "B. Tech in Computer Science and Engineering (Maulana Abul Kalam Azad University of Technology,WB)"
         }
       ],
       "interests": [
         {
-          "title": "",
-          "description": ""
+          "title": "AI and ML",
+          "description": "Exploring the impact of AI on different platforms of tech"
         },
         {
-          "title": "",
-          "description": ""
+          "title": "DSA",
+          "description": "Learning Data Structures and Algorithms"
         },
         {
-          "title": "",
-          "description": ""
+          "title": "Open Source",
+          "description": "Contributing to open-source projects and communities and participaing in GSoC"
         }
       ],
-      "posts": [
-        {
-          "title": "",
-          "description": "",
-          "image": "",
-          "url": "",
-          "type": ""
-        },
-        {
-          "title": "",
-          "description": "",
-          "image": "",
-          "type": ""
-        },
-        {
-          "title": "",
-          "description": "",
-          "image": "",
-          "type": ""
-        }
-      ]
+      "posts": []
     },
     {
       "name": "Debangshu Das",
